@@ -1,0 +1,24 @@
+{%- assign a = include.article -%}
+{%- assign cat = site.data.categories | where: "slug", a.categorie | first -%}
+{%- capture recherche -%}{{ a.title }} {{ a.resume }} {{ a.region }} {{ cat.nom }} {{ a.mots_cles | join: " " }}{%- endcapture -%}
+<article class="carte"
+  data-categorie="{{ a.categorie }}"
+  data-region="{{ a.region }}"
+  data-annee="{{ a.date | date: '%Y' }}"
+  data-recherche="{{ recherche | downcase | strip_newlines | escape }}">
+  <a class="carte__lien" href="{{ a.url | relative_url }}">
+    {% include photo.html src=a.image alt=a.image_alt classe="carte__photo" lazy=true %}
+    <div class="carte__texte">
+      <p class="carte__categorie">{{ cat.nom | default: a.categorie }}</p>
+      <h3 class="carte__titre">{{ a.title }}</h3>
+      {%- if a.resume %}
+      <p class="carte__resume">{{ a.resume }}</p>
+      {%- endif %}
+      <p class="carte__meta">
+        <time datetime="{{ a.date | date: '%Y-%m-%d' }}">{% include date-fr.html date=a.date %}</time>
+        {%- if a.region %}<span>{{ a.region }}</span>{% endif %}
+      </p>
+      <span class="carte__lire">Lire l'article</span>
+    </div>
+  </a>
+</article>

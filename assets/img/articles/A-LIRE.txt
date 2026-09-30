@@ -1,0 +1,3 @@
+Déposez ici les photos des articles (paysage, 1600 px de large minimum).
+Indiquez ensuite leur chemin dans l'article, par exemple :
+image: /assets/img/articles/2026-10-03-atelier.jpg

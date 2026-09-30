@@ -1,0 +1,67 @@
+---
+layout: default
+script: /assets/js/bibliotheque.js
+---
+{%- assign articles = site.articles | sort: "date" | reverse -%}
+<section class="ouverture">
+  <div class="ouverture__texte">
+    <h1 class="ouverture__titre">{{ site.title }}</h1>
+    <p class="ouverture__intro">{{ site.tagline }}. Projets, récits de terrain et économie sociale et solidaire en Tunisie.</p>
+  </div>
+  <div class="ouverture__formes">
+    {% include formes.html id="ouverture" %}
+  </div>
+</section>
+
+<section class="filtres" aria-label="Filtrer les articles">
+  <div class="filtres__themes" role="group" aria-label="Catégories">
+    <button type="button" class="theme" data-filtre-categorie="" aria-pressed="true">Tout</button>
+    {%- for c in site.data.categories %}
+    {%- assign n = site.articles | where: "categorie", c.slug | size %}
+    <button type="button" class="theme" data-filtre-categorie="{{ c.slug }}" aria-pressed="false"{% if n == 0 %} data-vide{% endif %}>
+      {{ c.nom }} <span class="theme__nb">{{ n }}</span>
+    </button>
+    {%- endfor %}
+  </div>
+
+  <div class="filtres__ligne">
+    <label class="champ champ--recherche">
+      <span class="visuellement-cache">Rechercher</span>
+      <svg class="champ__icone" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+      <input type="search" id="filtre-recherche" placeholder="Rechercher un mot, un projet, un lieu" autocomplete="off">
+    </label>
+    <label class="champ">
+      <span class="visuellement-cache">Région</span>
+      <select id="filtre-region"><option value="">Toutes les régions</option></select>
+    </label>
+    <label class="champ">
+      <span class="visuellement-cache">Année</span>
+      <select id="filtre-annee"><option value="">Toutes les années</option></select>
+    </label>
+  </div>
+</section>
+
+<section class="resultats" aria-labelledby="resultats-titre">
+  <div class="resultats__entete">
+    <h2 id="resultats-titre" class="titre-section">Publications</h2>
+    <p class="resultats__etat">
+      <span id="compteur" aria-live="polite">{{ articles | size }} articles</span>
+      <button type="button" id="effacer" class="lien-bouton" hidden>Effacer les filtres</button>
+    </p>
+  </div>
+
+  <div class="grille" id="grille" data-par-page="{{ site.articles_par_page }}">
+    {%- for a in articles %}
+    {% include carte.html article=a %}
+    {%- endfor %}
+  </div>
+
+  <div class="vide" id="vide" hidden>
+    <p>Aucun article ne correspond à ces filtres.</p>
+    <button type="button" class="bouton" data-effacer>Effacer les filtres</button>
+  </div>
+
+  <div class="plus">
+    <button type="button" class="bouton" id="plus" hidden>Afficher plus d'articles</button>
+  </div>
+</section>

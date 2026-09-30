@@ -1,0 +1,48 @@
+# ─────────────────────────────────────────────
+#  Bibliothèque SHANTI — configuration du site
+# ─────────────────────────────────────────────
+title: "Bibliothèque"
+tagline: "Articles, récits et ressources publiés par l'association SHANTI"
+description: "La bibliothèque de SHANTI rassemble les articles publiés par l'association : projets, récits de terrain, économie sociale et solidaire en Tunisie."
+lang: fr
+
+# Adresse du site : rien à régler.
+# GitHub Pages calcule automatiquement l'adresse (baseurl), que le site soit
+# sur pseudo.github.io/nom-du-depot ou sur un domaine personnalisé.
+# N'ajoutez PAS de ligne « baseurl » ici.
+url: ""
+
+# Nombre d'articles affichés avant le bouton « Afficher plus »
+articles_par_page: 12
+
+# Liens de l'association
+association:
+  nom: "SHANTI"
+  site: "https://shanti.tn"
+  adresse: "44 rue du Niger, 1073 Tunis, Tunisie"
+  telephone: "+216 71 903 042"
+  facebook: "https://www.facebook.com/shantitunisie/"
+  instagram: "https://www.instagram.com/shanti.tn/"
+  linkedin: "https://tn.linkedin.com/company/shantinnovationsociale"
+
+# Les articles : un fichier .md par article dans le dossier _articles
+collections:
+  articles:
+    output: true
+    permalink: /articles/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
+
+markdown: kramdown
+timezone: Africa/Tunis
+
+exclude:
+  - README.md
+  - MODELE-ARTICLE.md
+  - Gemfile
+  - Gemfile.lock

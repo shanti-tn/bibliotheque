@@ -1,0 +1,8 @@
+{%- comment -%} Cadre photo : l'image si elle existe, sinon l'emplacement [photo] {%- endcomment -%}
+<div class="photo {{ include.classe }}">
+  {%- if include.src and include.src != "" %}
+  <img src="{{ include.src | relative_url }}" alt="{{ include.alt | escape }}"{% if include.lazy %} loading="lazy"{% endif %}>
+  {%- else %}
+  <span class="photo__vide">[photo]</span>
+  {%- endif %}
+</div>

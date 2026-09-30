@@ -1,0 +1,27 @@
+<footer class="pied">
+  <div class="pied__carte">
+    <div class="pied__contenu">
+      <img src="{{ '/assets/img/logo-shanti-blanc.png' | relative_url }}" alt="SHANTI" width="200" height="51" class="pied__logo">
+      <p class="pied__devise">Construire, ensemble.</p>
+      <div class="pied__colonnes">
+        <div>
+          <h2 class="pied__titre">Nous trouver</h2>
+          <p>{{ site.association.adresse }}<br>{{ site.association.telephone }}</p>
+        </div>
+        <div>
+          <h2 class="pied__titre">Nous suivre</h2>
+          <ul class="pied__liens">
+            <li><a href="{{ site.association.site }}">shanti.tn</a></li>
+            <li><a href="{{ site.association.facebook }}">Facebook</a></li>
+            <li><a href="{{ site.association.instagram }}">Instagram</a></li>
+            <li><a href="{{ site.association.linkedin }}">LinkedIn</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="pied__formes">
+      {% include formes.html id="pied" %}
+    </div>
+  </div>
+  <p class="pied__mention">© {{ site.time | date: "%Y" }} Association SHANTI</p>
+</footer>

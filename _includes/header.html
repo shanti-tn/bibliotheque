@@ -1,0 +1,12 @@
+<a class="lien-evitement" href="#contenu">Aller au contenu</a>
+<header class="entete">
+  <div class="entete__inner">
+    <a class="entete__logo" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/img/logo-shanti-bleu.png' | relative_url }}" alt="SHANTI, accueil de la bibliothèque" width="160" height="41">
+    </a>
+    <nav class="entete__nav" aria-label="Navigation principale">
+      <a href="{{ '/' | relative_url }}" class="entete__lien"{% if page.layout != "article" %} aria-current="page"{% endif %}>Bibliothèque</a>
+      <a href="{{ site.association.site }}" class="pilule">Site de l'association</a>
+    </nav>
+  </div>
+</header>
