@@ -6,7 +6,7 @@
     </a>
     <nav class="entete__nav" aria-label="Navigation principale">
       <a href="{{ '/' | relative_url }}" class="entete__lien"{% if page.layout != "article" %} aria-current="page"{% endif %}>Bibliothèque</a>
-      <a href="{{ site.association.site }}" class="pilule">Site de l'association</a>
+      <a href="{{ site.association.site }}" class="pilule" target="_blank" rel="noopener">Site de l'association<span class="visuellement-cache"> (nouvel onglet)</span></a>
     </nav>
   </div>
 </header>
