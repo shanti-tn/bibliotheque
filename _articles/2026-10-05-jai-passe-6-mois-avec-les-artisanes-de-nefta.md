@@ -64,8 +64,6 @@ Elle y voit aussi une réflexion plus large sur notre rapport aux objets du quot
 
 *« Notre manière de consommer nous déconnecte de l’origine des choses. Je trouve ça presque dommage de ne plus se demander comment un objet a été fait, alors que l’histoire humaine et technique derrière est toujours passionnante. »* 
 
-![](/assets/img/articles/b10446a4-5097-4106-9b81-a6837fb68e04-750x420.jpeg)
-
 ![](/assets/img/articles/160697ee-e0a7-4d46-8e51-0101f2547e41-225x300.jpeg)
 
 **Une autre façon de regarder l’artisanat** 
