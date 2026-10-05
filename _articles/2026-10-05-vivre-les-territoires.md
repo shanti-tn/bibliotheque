@@ -23,7 +23,7 @@ mots_cles:
   - Nefta
   - Expérience
   - Table d'hôtes
-published: false
+published: true
 ---
 > *« Elle (Nefta) t'offre un espace où tu sens une sérénité et paix intérieure extraordinaire. Une chaleur t'enveloppe de toutes parts, te submergeant corps et âme – et te donne un sentiment de joie simple, profonde et débordante. Un sentiment difficile à expliquer, si tu veux le comprendre et le vivre, je dois te le dire : il faut visiter Nefta, et le voir par toi-même. »*  
 > – Safa Jalloul (artiste, de passage à Nefta)
