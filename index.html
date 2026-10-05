@@ -4,12 +4,12 @@ script: /assets/js/bibliotheque.js
 ---
 {%- assign articles = site.articles | sort: "date" | reverse -%}
 <section class="ouverture">
-  <div class="ouverture__texte">
+  <div class="ouverture__texte" data-anim="fade-up">
     <h1 class="ouverture__titre">{{ site.title }}</h1>
     <p class="ouverture__intro">{{ site.tagline }}. Projets, récits de terrain et économie sociale et solidaire en Tunisie.</p>
   </div>
   <div class="ouverture__formes">
-    {% include formes.html id="ouverture" %}
+    {% include formes.html id="ouverture" classe="formes--vivantes" %}
   </div>
 </section>
 

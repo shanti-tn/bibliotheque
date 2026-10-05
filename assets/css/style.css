@@ -61,8 +61,8 @@ a { color: inherit; }
 
 /* ---------- Formes libres ---------- */
 .formes { display: block; width: 100%; height: auto; color: var(--blanc); }
-.ouverture .formes g > * { animation: apparaitre .8s cubic-bezier(.2,.7,.2,1) both; animation-delay: calc(var(--i) * 70ms + 200ms); }
-@keyframes apparaitre { from { opacity: 0; } to { opacity: 1; } }
+/* L'animation des formes est gérée par assets/js/formes.js (GSAP), comme sur shanti.tn */
+.formes { overflow: visible; }
 
 /* ---------- Boutons / pilules ---------- */
 .pilule {
@@ -286,3 +286,7 @@ a { color: inherit; }
 .lecture__corps ul, .lecture__corps ol { padding-left: 1.25rem; margin: 1.25rem 0 1.75rem; }
 .lecture__corps li { margin: .4rem 0; padding-left: .35rem; }
 .lecture__corps ul li::marker { content: "■  "; color: var(--bleu); font-size: .7em; }
+
+/* Les formes animées restent dans leur bloc arrondi et passent sous le texte */
+.ouverture, .lecture__entete, .pied__carte { overflow: hidden; }
+.ouverture__texte, .lecture__texte, .pied__contenu { position: relative; z-index: 1; }
