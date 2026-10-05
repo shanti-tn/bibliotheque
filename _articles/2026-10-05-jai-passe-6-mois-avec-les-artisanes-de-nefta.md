@@ -48,7 +48,7 @@ Ce qui a le plus marqué Zelia, ce n’est pas tant la technique que la manière
 
 Ici, produire un tapis ne se sépare pas du reste : ça se fait au rythme des passages, des discussions, des liens qui se tissent en même temps que la matière. 
 
-![](https://lartisanerie.tn/wp-content/uploads/2026/07/VBI_4528-300x200.jpg)
+![](/assets/img/articles/vbi4528-768x511.jpg)
 
 **Ce que ces six mois ont changé** 
 
@@ -64,11 +64,9 @@ Elle y voit aussi une réflexion plus large sur notre rapport aux objets du quot
 
 *« Notre manière de consommer nous déconnecte de l’origine des choses. Je trouve ça presque dommage de ne plus se demander comment un objet a été fait, alors que l’histoire humaine et technique derrière est toujours passionnante. »* 
 
+![](/assets/img/articles/b10446a4-5097-4106-9b81-a6837fb68e04-750x420.jpeg)
 
-
-![](https://lartisanerie.tn/wp-content/uploads/2026/04/B10446A4-5097-4106-9B81-A6837FB68E04-300x169.jpeg)
-
-![](https://lartisanerie.tn/wp-content/uploads/2026/04/160697EE-E0A7-4D46-8E51-0101F2547E41-225x300.jpeg)
+![](/assets/img/articles/160697ee-e0a7-4d46-8e51-0101f2547e41-225x300.jpeg)
 
 **Une autre façon de regarder l’artisanat** 
 
