@@ -95,7 +95,7 @@ a { color: inherit; }
   padding: .9rem var(--gouttiere);
   display: flex; align-items: center; justify-content: space-between; gap: 1.5rem;
 }
-.entete__logo img { height: 38px; width: auto; }
+.entete__logo img { height: 32px; width: auto; }
 .entete__nav { display: flex; align-items: center; gap: 1.75rem; }
 .entete__lien { font-weight: 700; color: var(--bleu); text-decoration: none; }
 .entete__lien[aria-current="page"] { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 8px; }
@@ -256,7 +256,7 @@ a { color: inherit; }
   .filtres__themes::-webkit-scrollbar { display: none; }
   .theme { flex: none; }
   .entete__nav .pilule { display: none; }
-  .entete__logo img { height: 32px; }
+  .entete__logo img { height: 28px; }
   .pied__colonnes { grid-template-columns: 1fr; }
 }
 @media (prefers-reduced-motion: reduce) {
