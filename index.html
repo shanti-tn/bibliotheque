@@ -14,13 +14,16 @@ script: /assets/js/bibliotheque.js
 </section>
 
 <section class="filtres" aria-label="Filtrer les articles">
-  <div class="filtres__themes" role="group" aria-label="Catégories">
-    <button type="button" class="theme" data-filtre-categorie="" aria-pressed="true">Tout</button>
-    {%- for c in site.data.categories %}
-    {%- assign n = site.articles | where: "categorie", c.slug | size %}
-    <button type="button" class="theme" data-filtre-categorie="{{ c.slug }}" aria-pressed="false"{% if n == 0 %} data-vide{% endif %}>
-      {{ c.nom }} <span class="theme__nb">{{ n }}</span>
+  <div class="filtres__themes" role="group" aria-label="Thèmes">
+    <button type="button" class="theme" data-filtre-theme="" aria-pressed="true">Tout</button>
+    {%- assign themes = site.themes | sort: "ordre", "last" %}
+    {%- for t in themes %}
+    {%- assign n = site.articles | where: "theme", t.title | size %}
+    {%- if n > 0 %}
+    <button type="button" class="theme" data-filtre-theme="{{ t.title | escape }}" aria-pressed="false">
+      {{ t.title }} <span class="theme__nb">{{ n }}</span>
     </button>
+    {%- endif %}
     {%- endfor %}
   </div>
 

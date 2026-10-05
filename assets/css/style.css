@@ -230,7 +230,7 @@ a { color: inherit; }
 }
 .pied__logo { height: 48px; width: auto; margin-bottom: 2rem; }
 .pied__devise { font-weight: 900; font-size: clamp(1.8rem, 3.5vw, 3rem); letter-spacing: -.03em; line-height: 1; margin: 0 0 clamp(2rem, 4vw, 3rem); }
-.pied__colonnes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2rem; font-weight: 300; }
+.pied__colonnes { margin-top: 2.5rem; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2rem; font-weight: 300; }
 .pied__titre { font-size: 1rem; font-weight: 700; margin: 0 0 .6rem; }
 .pied p { margin: 0; }
 .pied__liens { list-style: none; margin: 0; padding: 0; display: grid; gap: .3rem; }
@@ -266,3 +266,23 @@ a { color: inherit; }
 
 /* Variante miroir des formes pour éviter la répétition */
 .pied__formes .formes, .lecture__formes .formes { transform: scaleX(-1); }
+
+/* ---------- Contenu des articles : photos, légendes, citations, listes ---------- */
+.lecture__corps p:has(> img) { margin: 2.5rem 0 0; }
+.lecture__corps p > img {
+  margin: 0 auto; width: auto; max-width: 100%; max-height: 82vh;
+  border-radius: var(--r-photo); background: var(--bleu-pale);
+}
+/* Légende : une ligne en italique juste sous la photo */
+.lecture__corps p:has(> img) + p:has(> em:only-child) {
+  margin: .75rem 0 2.5rem; font-size: .92rem; line-height: 1.5; color: var(--texte-doux); text-align: center;
+}
+.lecture__corps p:has(> img) + p:has(> em:only-child) em { font-style: normal; }
+/* Citation : la dernière ligne (le nom) en plus petit */
+.lecture__corps blockquote p:last-child:not(:first-child) {
+  margin-top: 1rem; font-size: 1rem; font-weight: 500; line-height: 1.4;
+}
+.lecture__corps blockquote p + p { margin-top: 1rem; }
+.lecture__corps ul, .lecture__corps ol { padding-left: 1.25rem; margin: 1.25rem 0 1.75rem; }
+.lecture__corps li { margin: .4rem 0; padding-left: .35rem; }
+.lecture__corps ul li::marker { content: "■  "; color: var(--bleu); font-size: .7em; }

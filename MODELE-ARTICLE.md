@@ -1,28 +1,29 @@
 ---
-# ── Copiez ce fichier dans le dossier _articles ──
-# Nom du fichier : AAAA-MM-JJ-titre-court.md  (ex. 2026-10-03-atelier-tissage-nefta.md)
-# Le « titre-court » devient l'adresse de l'article : /articles/atelier-tissage-nefta/
+# Modèle pour publier SANS le back-office (copier dans _articles).
+# Le plus simple reste le back-office : https://app.pagescms.org
+# Nom du fichier : AAAA-MM-JJ-titre-court.md
 
 title: "Titre de l'article"
 date: 2026-10-03
-categorie: artisanat          # un slug de _data/categories.yml
-region: Tozeur                # gouvernorat, « National », « Méditerranée »… écrire toujours de la même façon
-auteur: Pôle communication
-resume: "Une ou deux phrases qui donnent envie de lire. Affichées sur la carte et sous le titre."
-mots_cles: [kilim, Nefta]     # facultatif, aide la recherche
-image: /assets/img/articles/2026-10-03-atelier.jpg   # conseillé ; sans image, un cadre [photo] s'affiche
-image_alt: "Description de la photo pour les personnes malvoyantes"
-image_credit: "Photo : SHANTI"   # facultatif
+theme: "ESS"                  # exactement le nom d'un thème de la rubrique Thèmes
+region: "Aïn Draham"          # exactement le nom d'une région de la rubrique Régions
+auteur: "Prénom Nom"
+resume: "Une ou deux phrases affichées sur la carte et sous le titre."
+image: /assets/img/articles/nom-de-la-photo.jpg
+image_alt: "Ce qu'on voit sur la photo"
+image_legende: "Légende affichée sous la photo"
+mots_cles: [mot1, mot2]
+published: true
 ---
 
-Premier paragraphe de l'article.
+Premier paragraphe.
 
 ## Un intertitre
 
-Du texte, un [lien](https://shanti.tn), du **gras**.
+> « Une citation. »
+>
+> Prénom Nom, fonction
 
-> Une citation mise en valeur.
+![Description de la photo](/assets/img/articles/autre-photo.jpg)
 
-Pour ajouter une photo dans le texte, recopiez la ligne ci-dessous en changeant seulement le nom du fichier :
-
-![Description de l'image]({{ '/assets/img/articles/autre-photo.jpg' | relative_url }})
+*Légende : une ligne en italique juste sous la photo.*

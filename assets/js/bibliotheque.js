@@ -1,6 +1,6 @@
 /* Bibliothèque SHANTI — filtres côté navigateur
    Les cartes sont déjà dans la page (générées par Jekyll).
-   Ce script les filtre par catégorie, région, année et mot-clé,
+   Ce script les filtre par thème, région, année et mot-clé,
    et garde les filtres dans l'adresse pour pouvoir partager un lien. */
 (function () {
   "use strict";
@@ -10,7 +10,7 @@
 
   var cartes = Array.prototype.slice.call(grille.querySelectorAll(".carte"));
   var parPage = parseInt(grille.getAttribute("data-par-page"), 10) || 12;
-  var boutonsTheme = Array.prototype.slice.call(document.querySelectorAll("[data-filtre-categorie]"));
+  var boutonsTheme = Array.prototype.slice.call(document.querySelectorAll("[data-filtre-theme]"));
   var champRecherche = document.getElementById("filtre-recherche");
   var selectRegion = document.getElementById("filtre-region");
   var selectAnnee = document.getElementById("filtre-annee");
@@ -19,7 +19,7 @@
   var vide = document.getElementById("vide");
   var plus = document.getElementById("plus");
 
-  var etat = { categorie: "", region: "", annee: "", q: "" };
+  var etat = { theme: "", region: "", annee: "", q: "" };
   var limite = parPage;
 
   // Retire les accents pour une recherche plus tolérante
@@ -51,7 +51,7 @@
 
   function lireAdresse() {
     var p = new URLSearchParams(window.location.search);
-    etat.categorie = p.get("categorie") || "";
+    etat.theme = p.get("theme") || "";
     etat.region = p.get("region") || "";
     etat.annee = p.get("annee") || "";
     etat.q = p.get("q") || "";
@@ -59,7 +59,7 @@
 
   function ecrireAdresse() {
     var p = new URLSearchParams();
-    if (etat.categorie) p.set("categorie", etat.categorie);
+    if (etat.theme) p.set("theme", etat.theme);
     if (etat.region) p.set("region", etat.region);
     if (etat.annee) p.set("annee", etat.annee);
     if (etat.q) p.set("q", etat.q);
@@ -68,7 +68,7 @@
   }
 
   function correspond(c) {
-    if (etat.categorie && c.getAttribute("data-categorie") !== etat.categorie) return false;
+    if (etat.theme && c.getAttribute("data-theme") !== etat.theme) return false;
     if (etat.region && c.getAttribute("data-region") !== etat.region) return false;
     if (etat.annee && c.getAttribute("data-annee") !== etat.annee) return false;
     if (etat.q) {
@@ -82,7 +82,7 @@
 
   function afficher() {
     var visibles = cartes.filter(correspond);
-    var filtreActif = !!(etat.categorie || etat.region || etat.annee || etat.q);
+    var filtreActif = !!(etat.theme || etat.region || etat.annee || etat.q);
 
     cartes.forEach(function (c) {
       c.hidden = true;
@@ -101,7 +101,7 @@
     effacer.hidden = !filtreActif;
 
     boutonsTheme.forEach(function (b) {
-      b.setAttribute("aria-pressed", String(b.getAttribute("data-filtre-categorie") === etat.categorie));
+      b.setAttribute("aria-pressed", String(b.getAttribute("data-filtre-theme") === etat.theme));
     });
     selectRegion.value = etat.region;
     selectAnnee.value = etat.annee;
@@ -117,7 +117,7 @@
 
   boutonsTheme.forEach(function (b) {
     b.addEventListener("click", function () {
-      changer("categorie", b.getAttribute("data-filtre-categorie"));
+      changer("theme", b.getAttribute("data-filtre-theme"));
     });
   });
   selectRegion.addEventListener("change", function () { changer("region", selectRegion.value); });
@@ -130,7 +130,7 @@
   });
 
   function toutEffacer() {
-    etat = { categorie: "", region: "", annee: "", q: "" };
+    etat = { theme: "", region: "", annee: "", q: "" };
     champRecherche.value = "";
     limite = parPage;
     ecrireAdresse();

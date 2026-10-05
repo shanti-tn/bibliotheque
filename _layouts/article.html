@@ -1,13 +1,12 @@
 ---
 layout: default
 ---
-{%- assign cat = site.data.categories | where: "slug", page.categorie | first -%}
 <article class="lecture">
   <header class="lecture__entete">
     <div class="lecture__texte">
       <a class="lecture__retour" href="{{ '/' | relative_url }}">Retour à la bibliothèque</a>
-      <a class="pilule pilule--blanche" href="{{ '/' | relative_url }}?categorie={{ page.categorie }}">{{ cat.nom | default: page.categorie }}</a>
-      <h1 class="lecture__titre">{{ page.title }}</h1>
+      <a class="pilule pilule--blanche" href="{{ '/' | relative_url }}?theme={{ page.theme | uri_escape }}">{{ page.theme }}</a>
+      <h1 class="lecture__titre">{% include typo.html texte=page.title %}</h1>
       <p class="lecture__meta">
         <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{% include date-fr.html date=page.date %}</time>
         {%- if page.region %}<a href="{{ '/' | relative_url }}?region={{ page.region | uri_escape }}">{{ page.region }}</a>{% endif %}
@@ -21,20 +20,20 @@ layout: default
 
   <figure class="lecture__visuel">
     {% include photo.html src=page.image alt=page.image_alt classe="photo--large" %}
-    {%- if page.image_credit %}
-    <figcaption>{{ page.image_credit }}</figcaption>
+    {%- if page.image_legende %}
+    <figcaption>{{ page.image_legende }}</figcaption>
     {%- endif %}
   </figure>
 
   <div class="lecture__corps">
     {%- if page.resume %}
-    <p class="lecture__chapo">{{ page.resume }}</p>
+    <p class="lecture__chapo">{% include typo.html texte=page.resume %}</p>
     {%- endif %}
-    {{ content }}
+    {% include typo.html texte=content %}
   </div>
 </article>
 
-{%- assign proches = site.articles | where: "categorie", page.categorie | sort: "date" | reverse -%}
+{%- assign proches = site.articles | where: "theme", page.theme | sort: "date" | reverse -%}
 {%- assign nb = 0 -%}
 {%- capture liste -%}
   {%- for a in proches -%}
@@ -46,7 +45,7 @@ layout: default
 {%- endcapture -%}
 {%- if nb > 0 %}
 <section class="suite" aria-labelledby="suite-titre">
-  <h2 id="suite-titre" class="titre-section">Dans la même catégorie</h2>
+  <h2 id="suite-titre" class="titre-section">Sur le même thème</h2>
   <div class="grille">
     {{ liste }}
   </div>

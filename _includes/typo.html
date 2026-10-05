@@ -1,0 +1,2 @@
+{%- comment -%} Espaces insécables de la typographie française (avant : ; ? ! et dans « ») {%- endcomment -%}
+{{- include.texte | replace: " :", " :" | replace: " ;", " ;" | replace: " ?", " ?" | replace: " !", " !" | replace: "« ", "« " | replace: " »", " »" -}}

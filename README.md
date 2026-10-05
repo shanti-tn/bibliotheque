@@ -3,35 +3,25 @@
 Site des articles publiés par l'association SHANTI, hébergé sur GitHub Pages.
 Le site est construit automatiquement par GitHub avec **Jekyll** : il n'y a rien à installer.
 
-## Publier un article (sans rien installer)
+## Publier un article : le back-office
 
-1. Dans le dépôt sur GitHub, ouvrez le dossier `_articles`.
-2. Cliquez sur **Add file > Create new file**.
-3. Nommez le fichier `AAAA-MM-JJ-titre-court.md` (ex. `2026-10-03-atelier-tissage-nefta.md`).
-4. Copiez le contenu de `MODELE-ARTICLE.md`, remplissez les champs et écrivez l'article.
-5. Pour une photo : ouvrez `assets/img/articles`, **Add file > Upload files**, puis indiquez son chemin dans le champ `image`.
-6. Cliquez sur **Commit changes**. L'article apparaît dans la bibliothèque en 1 à 2 minutes (suivi dans l'onglet **Actions**).
+L'équipe publie depuis **Pages CMS**, un back-office en ligne gratuit relié à ce dépôt.
 
-L'article est automatiquement ajouté à la bibliothèque, trié par date, et filtrable par catégorie, région et année.
+1. Allez sur https://app.pagescms.org et connectez-vous avec GitHub.
+2. Choisissez le dépôt `bibliotheque`.
+3. Rubrique **Articles** > **Ajouter** : remplissez le formulaire, puis **Enregistrer**.
+4. L'article apparaît sur le site 1 à 2 minutes plus tard.
 
-### Les champs d'un article
+Les rubriques **Thèmes** et **Régions** permettent d'ajouter de nouvelles entrées : elles apparaissent aussitôt dans les listes déroulantes du formulaire. Un thème sans article n'est pas affiché dans les filtres du site.
 
-| Champ | Obligatoire | Rôle |
-|---|---|---|
-| `title` | oui | Titre |
-| `date` | oui | Date de publication (AAAA-MM-JJ), sert au tri et au filtre « Année » |
-| `categorie` | oui | Un `slug` de `_data/categories.yml` |
-| `region` | oui | Alimente le filtre « Région » (orthographe identique d'un article à l'autre) |
-| `resume` | conseillé | Texte de la carte et chapô |
-| `image`, `image_alt` | conseillé | Photo principale et sa description (sans image : cadre « [photo] ») |
-| `auteur`, `mots_cles`, `image_credit` | non | Informations complémentaires |
+**Dans le texte d'un article :**
+- une citation : bouton « citation », avec le nom de la personne sur une dernière ligne séparée ;
+- une légende de photo : une ligne en *italique* juste sous la photo ;
+- un brouillon : décochez « Publié ».
 
-Pour masquer un article sans le supprimer, ajoutez `published: false`.
+**Inviter un membre de l'équipe :** depuis Pages CMS (réglages du dépôt > collaborateurs), par simple e-mail, même sans compte GitHub. Ou via GitHub : **Settings > Collaborators**.
 
-## Modifier les catégories
-
-Éditez `_data/categories.yml`. L'ordre du fichier est l'ordre des boutons.
-Si vous changez un `slug`, mettez à jour les articles qui l'utilisent.
+Le fichier `.pages.yml` contient la configuration du back-office. `MODELE-ARTICLE.md` sert à publier sans le back-office, directement dans GitHub.
 
 ## Charte graphique
 
@@ -59,7 +49,9 @@ L'adresse du site est détectée automatiquement : il n'y a rien à modifier dan
 
 ```
 _config.yml           Réglages du site
-_data/categories.yml  Liste des catégories
+_themes/              Liste des thèmes
+_regions/             Liste des régions
+.pages.yml            Configuration du back-office
 _articles/            Un fichier par article
 _layouts/             Gabarits (page, article)
 _includes/            Morceaux réutilisés (en-tête, pied, carte…)

@@ -25,11 +25,18 @@ association:
   instagram: "https://www.instagram.com/shanti.tn/"
   linkedin: "https://tn.linkedin.com/company/shantinnovationsociale"
 
-# Les articles : un fichier .md par article dans le dossier _articles
+# Contenus gérés depuis le back-office (Pages CMS)
+#  - _articles : un fichier par article, chacun a sa page
+#  - _themes   : la liste des thèmes (boutons de filtre)
+#  - _regions  : la liste des régions (menu déroulant)
 collections:
   articles:
     output: true
     permalink: /articles/:slug/
+  themes:
+    output: false
+  regions:
+    output: false
 
 defaults:
   - scope:
@@ -46,3 +53,4 @@ exclude:
   - MODELE-ARTICLE.md
   - Gemfile
   - Gemfile.lock
+  - .pages.yml
