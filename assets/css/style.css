@@ -213,7 +213,7 @@ a { color: inherit; }
 .lecture__corps blockquote {
   margin: 2.5rem 0; padding: clamp(1.5rem, 3vw, 2.25rem);
   border-radius: var(--r-photo); background: var(--bleu-clair); color: var(--bleu);
-  font-size: clamp(1.35rem, 2.2vw, 1.7rem); line-height: 1.25; font-weight: 700;
+  font-size: clamp(1.15rem, 1.7vw, 1.3rem); line-height: 1.55; font-weight: 400; font-style: italic;
 }
 .lecture__corps blockquote p { margin: 0; }
 .lecture__corps img { margin: 2rem 0; border-radius: var(--r-photo); }
@@ -280,7 +280,7 @@ a { color: inherit; }
 .lecture__corps p:has(> img) + p:has(> em:only-child) em { font-style: normal; }
 /* Citation : la dernière ligne (le nom) en plus petit */
 .lecture__corps blockquote p:last-child:not(:first-child) {
-  margin-top: 1rem; font-size: 1rem; font-weight: 500; line-height: 1.4;
+  margin-top: 1rem; font-size: .95rem; font-weight: 700; font-style: normal; line-height: 1.4;
 }
 .lecture__corps blockquote p + p { margin-top: 1rem; }
 .lecture__corps ul, .lecture__corps ol { padding-left: 1.25rem; margin: 1.25rem 0 1.75rem; }
