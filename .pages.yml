@@ -1,0 +1,115 @@
+# Back-office de la Bibliothèque (Pages CMS)
+
+media:
+  input: assets/img/articles
+  output: /assets/img/articles
+  categories: [image]
+  rename: safe
+
+content:
+  - name: articles
+    label: Articles
+    type: collection
+    path: _articles
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [title, theme, region, date, published]
+      primary: title
+      sort: date
+      order: desc
+    fields:
+      - name: title
+        label: Titre
+        type: string
+        required: true
+      - name: date
+        label: Date de publication
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: theme
+        label: Thème
+        description: "Pour ajouter un thème, passez par la rubrique « Thèmes »."
+        type: reference
+        required: true
+        options:
+          collection: themes
+          value: "{primary}"
+          label: "{primary}"
+      - name: region
+        label: Région
+        description: "Pour ajouter une région, passez par la rubrique « Régions »."
+        type: reference
+        required: true
+        options:
+          collection: regions
+          value: "{primary}"
+          label: "{primary}"
+      - name: auteur
+        label: Auteur·ice
+        type: string
+      - name: resume
+        label: Résumé
+        description: "1 ou 2 phrases, affichées sur la carte de l'article et sous le titre."
+        type: text
+        options:
+          maxlength: 320
+      - name: image
+        label: Photo principale
+        description: "Format paysage, 1600 px de large idéalement."
+        type: image
+      - name: image_alt
+        label: Description de la photo
+        description: "Ce qu'on voit sur la photo, pour les personnes malvoyantes."
+        type: string
+      - name: image_legende
+        label: Légende de la photo
+        type: string
+      - name: mots_cles
+        label: Mots-clés
+        description: "Facultatif, aide la recherche (ex. partenaires, projet)."
+        type: string
+        list: true
+      - name: published
+        label: Publié
+        description: "Décochez pour garder l'article en brouillon (invisible sur le site)."
+        type: boolean
+        default: true
+      - name: body
+        label: Texte de l'article
+        type: rich-text
+        options:
+          format: markdown
+
+  - name: themes
+    label: Thèmes
+    type: collection
+    path: _themes
+    filename: "{primary}.md"
+    view:
+      primary: title
+      sort: title
+    fields:
+      - name: title
+        label: Nom du thème
+        type: string
+        required: true
+      - name: ordre
+        label: Ordre d'affichage
+        description: "Facultatif. 1 = premier bouton. Sans numéro, le thème passe après."
+        type: number
+
+  - name: regions
+    label: Régions
+    type: collection
+    path: _regions
+    filename: "{primary}.md"
+    view:
+      primary: title
+      sort: title
+    fields:
+      - name: title
+        label: Nom de la région
+        type: string
+        required: true
