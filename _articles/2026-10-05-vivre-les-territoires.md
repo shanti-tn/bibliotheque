@@ -8,6 +8,21 @@ resume: Un tourisme qui ne survole pas, qui ne passe pas à côté. À Nefta, IN
   NEFTA rassemble une communauté d'acteurs locaux pour offrir une autre façon de
   visiter – immersive, ancrée dans les savoir-faire et le quotidien du
   territoire.
+image: /assets/img/articles/nefta-oasis-velo-palmiers.jpg
+image_alt: "Un promenade en vélo dans la palmeraie de Nefta, de bon matin. "
+image_legende: "Un promenade en vélo dans la palmeraie de Nefta, de bon matin. "
+mots_cles:
+  - Tourisme durable
+  - Écotourisme
+  - Jérid
+  - Kroumerie
+  - Artisanat
+  - Immersion
+  - Oasis
+  - Territoire
+  - Nefta
+  - Expérience
+  - Table d'hôtes
 published: false
 ---
 > *« Elle (Nefta) t'offre un espace où tu sens une sérénité et paix intérieure extraordinaire. Une chaleur t'enveloppe de toutes parts, te submergeant corps et âme – et te donne un sentiment de joie simple, profonde et débordante. Un sentiment difficile à expliquer, si tu veux le comprendre et le vivre, je dois te le dire : il faut visiter Nefta, et le voir par toi-même. »*  
@@ -15,25 +30,25 @@ published: false
 
 À Nefta, on peut entrer dans l'oasis à pied, marcher entre les palmiers, s'arrêter chez un.e artisan.e et apprendre un geste transmis de génération en génération, manger un repas traditionnel sur une parcelle ou dans une maison traditionnelle. C'est la vie d'un territoire, la richesse de cultures et de traditions que l'on traverse au fil des pas, des rencontres.
 
+![](/assets/img/articles/nefta-tissage-artisane-et-visiteuse.jpg)
+
+![](/assets/img/articles/nefta-table-hote-service.jpg)
+
 Le tourisme peut être un levier pour ces territoires – à condition qu'il serve vraiment les gens qui y vivent, que la valeur qu'il génère y reste, et que les personnes qui en sont les premières ressources en soient aussi les premières bénéficiaires.
 
 L'industrie touristique conventionnelle passe souvent à côté de ça. Elle survole, elle extrait, elle optimise. Avec IN NEFTA, on y croit autrement : un visiteur peut venir s'immerger dans le quotidien au cœur du Jérid, rencontrer ceux et celles qui font vivre les savoir-faire locaux, comprendre un territoire de l'intérieur plutôt que de le survoler.
 
-`(photo des mains avec la brique – Zélia)`
-
-**Résister ensemble**
+## **Résister ensemble**
 
 Cette conviction, d'autres la portent aussi. Dans la région de la Kroumirie, Rania et Skander ont construit Dar El Ain – des expériences ancrées dans les forêts et les villages du Nord-Ouest. Une table d'hôte chez l'habitant.e, un savoir-faire culinaire et naturel transmis par les femmes du territoire. Des approches différentes, des régions différentes, mais une démarche très similaire dans le fond. On échange, on se soutient, on apprend les uns des autres – parce que ce type de démarche se construit mieux en réseau.
 
-`(photo Dar El Ain)`
-
-**Transmettre**
+## **Transmettre**
 
 On ne comprend vraiment un territoire qu'en y vivant, même quelques jours. Marcher dans l'oasis avec quelqu'un qui y travaille. Observer le montage du métier à tisser avant de voir un kilim fini. Comprendre ce que veut dire entretenir une palmeraie quand les nappes phréatiques baissent et que les températures montent. Les routines, gestes, objets, habitudes qui se transmettent d'une génération à une autre commencent à exister en nous – et quelque chose s'ouvre.
 
-`(photo montage kilim – Zélia)`
+![](/assets/img/articles/nefta-brique-transmission.jpg)
 
-**Une démarche ouverte**
+## **Une démarche ouverte**
 
 IN NEFTA n'est pas un produit fini. C'est un collectif qui continue d'ajuster, d'apprendre, de mettre en lien. Visiter les territoires portés par la curiosité de découvrir, au-delà d'un nouveau paysage, d'autres façons de faire et de vivre, c'est aussi un moyen de faire vivre un modèle de tourisme plus durable, plus responsable – et de faire vivre des mémoires.
 
