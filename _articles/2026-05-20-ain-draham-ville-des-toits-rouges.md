@@ -1,17 +1,29 @@
 ---
-title: "Aïn Draham, la ville des toits rouges : un patrimoine menacé, une identité à préserver"
+title: "Aïn Draham, la ville des toits rouges : un patrimoine menacé, une
+  identité à préserver"
 date: 2026-05-20
-theme: "ESS"
-region: "Aïn Draham"
-auteur: "Jalel Chaabani"
-resume: "Dans le cadre du 35e Mois du Patrimoine, le mécanisme territorial TAGHYIR a soutenu les Journées « Village Vivant – Patrimoine & Écologie » pour faire de l'architecture traditionnelle d'Aïn Draham un levier d'identité et de résilience."
+theme: ESS
+region: Aïn Draham
+auteur: Jalel Chaabani
+resume: Dans le cadre du 35e Mois du Patrimoine, le mécanisme territorial
+  TAGHYIR a soutenu les Journées « Village Vivant – Patrimoine & Écologie » pour
+  faire de l'architecture traditionnelle d'Aïn Draham un levier d'identité et de
+  résilience.
 image: /assets/img/articles/ain-draham-toits-rouges.jpg
-image_alt: "Vue d'Aïn Draham : maisons blanches aux toits de tuiles rouges sur une colline boisée"
-image_legende: "Aïn Draham, la ville des toits rouges. Un patrimoine architectural unique en Tunisie, aujourd'hui confronté à l'évolution des modes de construction."
-mots_cles: [patrimoine, architecture, TAGHYIR, AINNA Hub, Mois du Patrimoine, Kroumirie]
+image_alt: "Vue de Aïn Draham : maisons blanches aux toits de tuiles rouges sur
+  une colline boisée"
+image_legende: Aïn Draham, la ville des toits rouges. Un patrimoine
+  architectural unique en Tunisie, aujourd'hui confronté à l'évolution des modes
+  de construction.
+mots_cles:
+  - patrimoine
+  - architecture
+  - TAGHYIR
+  - AINNA Hub
+  - Mois du Patrimoine
+  - Kroumirie
 published: true
 ---
-
 Dans le cadre du 35e Mois du Patrimoine en Tunisie, organisé du 18 avril au 18 mai 2026 sous le thème « Le patrimoine et l'art de l'architecture », le mécanisme territorial TAGHYIR d'Aïn Draham a soutenu une dynamique locale visant à valoriser l'architecture traditionnelle de la région comme patrimoine vivant, vecteur d'identité et ressource pour la résilience territoriale.
 
 ## Un patrimoine unique en Tunisie
