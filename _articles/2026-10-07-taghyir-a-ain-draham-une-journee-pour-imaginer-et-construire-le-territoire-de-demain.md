@@ -4,10 +4,7 @@ title: "TAGHYIR à Aïn Draham : Une journée pour imaginer et construire le
 date: 2026-06-08
 theme: ESS
 region: Aïn Draham
-resume: "Une journée d’échange et de co-construction a réuni les acteurs du
-  territoire autour d’un objectif commun : poser les premières bases collectives
-  du mécanisme territorial TAGHYIR et définir les priorités d’action pour
-  accompagner les dynamiques locales. "
+resume: Une journée d’échange et de co-construction à Aîn Drahem
 image: /assets/img/articles/design-sans-titre.jpg
 published: true
 ---
