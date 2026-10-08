@@ -1,6 +1,6 @@
 ---
 title: "Échos Solidaires : l’énergie collective au service du territoire oasien "
-date: 2026-10-08
+date: 2025-11-28
 theme: ESS
 region: Nefta
 resume: Échos Solidaires initiative portée par Shanti dans le cadre du projet
