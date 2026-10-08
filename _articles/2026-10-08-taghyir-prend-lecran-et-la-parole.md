@@ -1,6 +1,6 @@
 ---
 title: "TAGHYIR prend l’écran et la parole "
-date: 2026-10-08
+date: 2026-05-14
 theme: ESS
 region: Grand Tunis
 image: /assets/img/articles/6716514501222970219720797887620158181663828176n-1-1157x1536.jpg
