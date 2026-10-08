@@ -3,6 +3,11 @@ title: "TAGHYIR prend l’écran et la parole "
 date: 2026-05-14
 theme: ESS
 region: Grand Tunis
+resume: Ces dernières semaines, le documentaire *TAGHYIR “Pour une économie
+  régénérative”* a voyagé du Kef à Aïn Draham, pour finir au Théâtre El Hamra de
+  Tunis, il a porté avec lui les voix, les visages et les récits de celles et
+  ceux qui, au quotidien, inventent d’autres façons de produire, de coopérer et
+  de vivre ensemble.
 image: /assets/img/articles/6716514501222970219720797887620158181663828176n-1-1157x1536.jpg
 published: true
 ---
