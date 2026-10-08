@@ -3,6 +3,9 @@ title: "Des savoirs en mouvement : Du Sud au Nord-Ouest "
 date: 2026-02-14
 theme: ESS
 region: Aïn Draham
+resume: Pendant quatre jours, des agriculteur.trices de Nefta ont parcouru le
+  Nord-Ouest tunisien à la rencontre d’initiatives agricoles, de structures
+  locales et de producteur.trices engagés dans leurs territoires
 image: /assets/img/articles/20260212110957-e1778766104745-1024x1015.jpg
 published: true
 ---
