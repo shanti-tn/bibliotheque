@@ -19,7 +19,7 @@ Mais si vous posez la question à notre designer, voici sa réponse: 
 
 On parle souvent de co-création, de co-conception. Mais qu’est-ce que ça signifie vraiment, sur le terrain ? 
 
-# **Ce que ça signifie concrètement** 
+# **Ce que ça signifie concrètement**
 
 Quand on développe une nouvelle pièce en bois de palmier avec Kamel à Nefta, ou un kilim avec les artisanes d’El Mensej, on commence par aller sur place. On observe. On comprend ce que le matériau permet  et ce qu’il ne permet pas. On apprend ce que chaque artisan.e fait naturellement bien : ce qui relève de son geste propre, de son œil, de ses années de pratique, de sa région. 
 
@@ -27,7 +27,7 @@ Quand on développe une nouvelle pièce en bois de palmier avec Kamel à Nefta, 
 
 ![](https://lartisanerie.tn/wp-content/uploads/2026/06/VBI_3071-300x200.jpg)
 
-[](https://lartisanerie.tn/wp-content/uploads/2026/06/VBI_3071.jpg)    
+    
 
 ![](https://lartisanerie.tn/wp-content/uploads/2026/06/VBI_1648-300x200.jpg)
 
@@ -43,7 +43,7 @@ C’est aussi pour ça que chaque pièce est légèrement unique. Non par défau
 
 ![](https://lartisanerie.tn/wp-content/uploads/2026/06/VBI_1728-300x200.jpg)
 
-# **Un artisanat tunisien qui évolue sans se trahir** 
+# **Un artisanat tunisien qui évolue sans se trahir**
 
 Ce processus, c’est le cœur de notre démarche : ne jamais concevoir quelque chose sans comprendre d’abord. Le savoir-faire artisanal tunisien  le façonnage du bois de palmier, le tissage des kilims, la vannerie de feuille de palme  est un patrimoine vivant. L’adapter demande de l’écoute, d’aller dans les ateliers, de tester, de recommencer et de lancer les nouveaux produits ensemble, en célébrant leurs origines.
 
