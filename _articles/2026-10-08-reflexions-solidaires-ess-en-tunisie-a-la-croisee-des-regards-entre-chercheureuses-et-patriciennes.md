@@ -9,5 +9,6 @@ resume: "Le séminaire Réflexions Solidaires, organisé dans le cadre du projet
   chercheur.euse.s et acteur.rice.s de l’économie sociale et solidaire (ESS) en
   Tunisie et au Maghreb. Il part d’un constat partagé: si le monde académique
   produit des cadres thé"
+image: /assets/img/articles/image-13.png
 published: true
 ---
