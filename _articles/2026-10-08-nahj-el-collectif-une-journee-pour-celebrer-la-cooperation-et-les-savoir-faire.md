@@ -4,6 +4,9 @@ title: "Nahj el Collectif : une journée pour célébrer la coopération et les
 date: 2026-06-06
 theme: ESS
 region: Grand Tunis
+resume: À l’occasion de Nahj el Collectif, artisan·e·s, créateur·ice·s,
+  associations et visiteur·euse·s se sont retrouvé·e·s pour une journée placée
+  sous le signe de la rencontre, de la découverte et de la convivialité
 image: /assets/img/articles/capture-decran-2026-10-08-132023.png
 published: true
 ---
