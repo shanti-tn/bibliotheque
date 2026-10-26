@@ -9,9 +9,9 @@ resume: Pendant quatre jours, des agriculteur.trices de Nefta ont parcouru l
 image: /assets/img/articles/20260212110957-e1778766104745-1024x1015.jpg
 published: true
 ---
-Pendant quatre jours, des agriculteur.trices de Nefta ont parcouru le Nord-Ouest tunisien à la rencontre d’initiatives agricoles, de structures locales et de producteur.trices engagés dans leurs territoires. Dans le cadre du programme TAGHYIR, cette visite technique interrégionale a créé un espace d’échange autour des pratiques agricoles, de la valorisation des filières locales et des formes de coopération entre acteur.trices du territoire. 
+Pendant quatre jours, des agriculteur.trices de Nefta ont parcouru le Nord-Ouest tunisien à la rencontre d’initiatives agricoles, de structures locales et de producteur.trices engagés dans leurs territoires. Cette visite technique interrégionale a créé un espace d’échange autour des pratiques agricoles, de la valorisation des filières locales et des formes de coopération entre acteur.trices du territoire. 
 
-Pensée comme un temps d’intercoopération entre acteur.trices agricoles, structures locales et initiatives de terrain, cette visite s’inscrit dans la dynamique portée par TAGHYIR autour de la mutualisation des savoirs, des pratiques et des ressources entre les territoires. 
+Pensée comme un temps d’intercoopération entre acteur.trices agricoles, structures locales et initiatives de terrain, cette visite tourne autour de la mutualisation des savoirs, des pratiques et des ressources entre les territoires. 
 
 ![](https://medsocialinnovationlab.org/wp-content/uploads/2026/05/20260212_112730-1-edited.jpg)
 
