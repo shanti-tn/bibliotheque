@@ -6,6 +6,9 @@ theme: ESS
 region: Aïn Draham
 resume: Une journée d’échange et de co-construction à Aîn Drahem
 image: /assets/img/articles/design-sans-titre.jpg
+mots_cles:
+  - Ain Drahem
+  - économie social et solidaire
 published: true
 ---
 **AGHYIR à Aïn Draham : une journée pour imaginer et construire le territoire de demain**
