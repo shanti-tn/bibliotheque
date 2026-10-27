@@ -7,6 +7,13 @@ region: Nefta
 resume: "Si on vous demandait quelle est la première étape de la conception d’un
   objet, vous répondriez sûrement : une esquisse, un croquis. "
 image: /assets/img/articles/vbi2780-2048x1363.jpg
+mots_cles:
+  - artisanat
+  - savoir-faire
+  - tissage
+  - kilim
+  - le façonnage du bois de palmier
+  - " la vannerie de feuille de palme"
 published: true
 ---
 Comment naît vraiment un produit de L’artisanerie: co-création avec les artisan. e. s
