@@ -8,7 +8,7 @@ region: Grand Tunis
 resume: Les 9 et 10 novembre 2026, Shanti, en partenariat avec ICARDA, a
   organisé à Tunis une rencontre nationale consacrée au leadershi féminin dans
   les structures professionnelles agricoles
-image: /assets/img/articles/img6975.jpg
+image: /assets/img/articles/img6970.jpg
 mots_cles:
   - Rencontre national
   - agriculture
