@@ -61,8 +61,8 @@ Le second atelier portait sur l’intercoopération. Plusieurs GDA ont des produ
 
 *Les idées s’écrivent à plusieurs mains.*
 
-## Le climat, une affaire de femmes aussi
+## Climat : les femmes au cœur de la résilience
 
 La deuxième journée a pris de la hauteur : comment s’adapter et rester résilient·es face aux changements climatiques dans le Nord-Ouest ? Trois éclairages se sont succédé : les pratiques agricoles qui émergent face au climat dans la région, le lien entre genre et changements climatiques, et la Résolution 1325 des Nations Unies sur les femmes, la paix et la sécurité. Un long temps d’échange a suivi, pour que chacun·e partage ce qu’il ou elle vit sur son territoire.
 
-Deux jours au Kef, avec un fil rouge : les femmes rurales ne sont pas seulement concernées par l’avenir de leurs territoires. Elles en sont les actrices.
+Deux jours au Kef, avec un fil rouge : les femmes rurales, actrices du développement de leurs territoires.

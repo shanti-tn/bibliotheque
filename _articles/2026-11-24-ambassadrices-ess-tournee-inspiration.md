@@ -34,7 +34,7 @@ Les présidentes et les membres des GDA ont raconté leur expérience : comment
 
 Le lendemain, rendez-vous chez SHANTI. La matinée a commencé par une présentation de l’association et de Nahj El Collectif, une initiative à part entière. Puis les ambassadrices sont parties à la découverte de trois lieux : L’artisanerie, SOGEMU et l’Espace Bahja.
 
-L’après-midi a élargi encore l’horizon. COSPE et SHANTI organisaient une session de dialogue autour de l’inclusion financière, de l’autonomie économique des femmes et du leadership féminin. Les ambassadrices y ont participé aux côtés d’organisations venues de plusieurs pays, au même titre que les autres. En petits groupes, chacun·e a d’abord identifié les obstacles qui freinent les femmes, individuels, institutionnels ou économiques, puis les pratiques et les solutions prometteuses.
+L’après-midi a élargi encore l’horizon. COSPE et SHANTI organisaient une session de dialogue autour de l’inclusion financière, de l’autonomie économique des femmes et du leadership féminin. Les ambassadrices y ont pris part, avec des organisations venues de plusieurs pays. En petits groupes, chacun·e a d’abord identifié les obstacles qui freinent les femmes, individuels, institutionnels ou économiques, puis les pratiques et les solutions prometteuses.
 
 ## Et après ?
 
