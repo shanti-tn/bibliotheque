@@ -1,20 +1,28 @@
 ---
-title: "Premier atelier à Dar el Mensej"
+title: Premier atelier à Dar el Mensej
 date: 2026-11-24
-theme: "Artisanat"
-region: "Nefta"
-auteur: "Bahija MAALA"
-resume: "Le 14 novembre, à Nefta, Dar el Mensej a ouvert ses portes au public pour la première fois. Tissage, mtabga et jeu de sig : 25 visiteurs et visiteuses ont passé un moment avec les artisanes, chez elles."
+theme: Artisanat
+region: Nefta
+auteur: Bahija MAALA
+resume: "Le 14 novembre, à Nefta, Dar el Mensej a ouvert ses portes au public
+  pour la première fois. Tissage, mtabga et jeu de sig : 25 visiteurs et
+  visiteuses ont passé un moment avec les artisanes, chez elles."
 image: /assets/img/articles/nefta-dar-el-mensej-tissage.jpg
-image_alt: "À travers les fils de chaîne d’un métier à tisser vertical, une visiteuse en rose regarde la main d’une artisane qui passe un fil de laine orange."
-image_legende: "Au métier à tisser, à Dar el Mensej."
-mots_cles: [Dar el Mensej, In Nefta, tissage, artisanes, mtabga, sig, Jérid]
+image_alt: À travers les fils de chaîne d’un métier à tisser vertical, une
+  visiteuse en rose regarde la main d’une artisane qui passe un fil de laine
+  orange.
+image_legende: Au métier à tisser, à Dar el Mensej.
+mots_cles:
+  - Dar el Mensej
+  - In Nefta
+  - tissage
+  - artisanes
+  - mtabga
+  - sig
+  - Jérid
 published: false
 ---
 
-<!-- À VÉRIFIER :
-- Droit à l’image des 4 photos (dossier « 10-26 / atelier dar el mensej » : IMG_5977, IMG_5989, IMG_5979, IMG_5970) : à confirmer avant publication.
--->
 
 Il y a des maisons qui s’ouvrent doucement. Le 14 novembre 2026, à Nefta, Dar el Mensej a accueilli du public pour la première fois. 25 visiteurs et visiteuses sont venu·es passer un moment avec les artisanes, chez elles.
 
@@ -37,10 +45,6 @@ En parallèle, un autre atelier se tenait : la mtabga. Chacun·e pouvait mettre
 ![](/assets/img/articles/nefta-dar-el-mensej-mtabga.jpg)
 
 *Atelier mtabga.*
-
-![](/assets/img/articles/nefta-dar-el-mensej-premier-atelier.jpg)
-
-*Atelier cuisine à Dar el Mensej.*
 
 ## Et pour finir, un jeu
 
