@@ -4,24 +4,47 @@ date: 2026-11-24
 theme: "ESS"
 region: "Grand Tunis"
 auteur: "Bahija MAALA"
-resume: "Du 19 septembre au 18 octobre, 24 jeunes ont suivi le parcours de formation YES-Med. Le 18 octobre, chacun·e a pitché son projet d’entrepreneuriat social et durable."
+resume: "Un mois de formation, six modules, et un pitch pour finir. Le 18 octobre, chez SHANTI à Tunis, les jeunes du programme YES-Med ont présenté leur projet d'entrepreneuriat social et durable."
 image: /assets/img/articles/yes-med-atelier-jeunes.jpg
-image_alt: "Un groupe de jeunes penché·es sur une grande feuille autour d’une table de travail"
+image_alt: "Six jeunes penché·es autour d'une table de travail, sur une grande feuille couverte de notes, pendant un atelier de la formation YES-Med."
 image_legende: "Travail en groupe pendant la formation YES-Med."
-mots_cles: [YES-Med, jeunes, formation, entrepreneuriat social, pitch]
+mots_cles: [YES-Med, jeunes, formation, entrepreneuriat social, pitch, Erasmus+, Méditerranée]
 published: false
 ---
 
-<!-- À VÉRIFIER :
-- Photo choisie dans « 10-26 / YES MED » (2.png). Le droit à l’image n’est pas coché dans la fiche : à confirmer avant publication.
+<!-- À VÉRIFIER :
+- Le découpage en deux cycles de présentiel (début et mi-octobre) vient du cadre d'action : à confirmer.
+- « La sélection » : préciser ce qui est sélectionné (actions pilotes ? mobilité ?) si on veut être plus précis.
+- Droit à l'image des 2 photos (dossier « 10-26 / YES MED ») : à confirmer avant publication.
 -->
 
-Le 18 octobre, chez SHANTI à Tunis, les jeunes du parcours ont présenté leur projet d’entrepreneuriat social et durable. Cinq minutes de pitch, cinq minutes de questions. C’était la dernière étape d’un mois de formation, commencé le 19 septembre, en ligne et en présentiel.
+Cinq minutes pour convaincre, cinq minutes pour répondre aux questions. Le 18 octobre, chez SHANTI à Tunis, les jeunes du programme YES-Med ont présenté, chacun·e à leur tour, leur projet d'entrepreneuriat social et durable. Ce pitch fermait un mois de formation commencé le 19 septembre.
 
-## Six modules pour bâtir un projet
+## Un programme, six pays
 
-YES-Med est un programme Erasmus+ qui réunit six pays de la Méditerranée et s’adresse aux jeunes de 18 à 35 ans. La formation développe des compétences numériques, environnementales et entrepreneuriales. Au fil de six modules, chacun·e a construit son idée, de l’analyse du territoire au modèle économique, jusqu’à la mesure de l’impact.
+YES-Med est un programme Erasmus+ qui réunit six pays autour de la Méditerranée : l'Italie, la France, l'Espagne, la Tunisie, le Maroc et le Liban. Il s'adresse aux jeunes de 18 à 35 ans, avec une ambition commune : développer leurs compétences, partager leurs expériences et passer à l'action dans leurs territoires, au service de l'économie sociale et solidaire.
 
-## Et maintenant
+En Tunisie, 24 jeunes ont été sélectionné·es.
 
-La sélection sera annoncée dans les prochaines semaines.
+## De l'idée au modèle économique
+
+La formation alternait en ligne et présentiel. Elle a démarré le 19 septembre par une session à distance, puis s'est poursuivie dans les locaux de SHANTI, en deux temps, début et mi-octobre.
+
+![](/assets/img/articles/yes-med-salle-formation.jpg)
+
+*Dans la salle de formation, chez SHANTI.*
+
+Six modules pour faire grandir une idée, étape par étape :
+
+1. comprendre les enjeux et les opportunités de son territoire ;
+2. concevoir une initiative inclusive d'ESS ;
+3. construire un modèle viable et inclusif ;
+4. planifier et mobiliser les ressources nécessaires ;
+5. mobiliser les parties prenantes et communiquer ;
+6. assurer la durabilité et mesurer l'impact.
+
+Le but n'était pas d'accumuler de la théorie. Il fallait développer des compétences numériques, environnementales et entrepreneuriales, renforcer son employabilité, et surtout repartir avec une idée de projet et un modèle économique finalisé.
+
+## Et maintenant ?
+
+Le pitch du 18 octobre n'était pas une fin. Dans YES-Med, la formation est le socle de la suite : chaque participant·e est appelé·e à concevoir une action pilote dans son territoire, avec l'accompagnement de SHANTI. La sélection sera annoncée dans les prochaines semaines.

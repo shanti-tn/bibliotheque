@@ -4,30 +4,41 @@ date: 2026-11-24
 theme: "ESS"
 region: "Grand Tunis"
 auteur: "Azza Malouche"
-resume: "Les 25 et 26 octobre, 24 ambassadrices de l’ESS venues de Jendouba, Kairouan et Mahdia ont passé deux jours à Ben Arous et à Tunis, à la rencontre d’initiatives qui coopèrent."
+resume: "Elles viennent de Jendouba, Kairouan et Mahdia. Les 25 et 26 octobre, 24 ambassadrices de l’ESS du projet FASSA ont passé deux jours à Ben Arous et à Tunis pour voir, de près, des initiatives qui coopèrent."
 image: ""
 image_alt: ""
 image_legende: ""
-mots_cles: [FASSA, ambassadrices, Kounouz Ben Arous, GDA, Nahj El Collectif, COSPE]
+mots_cles: [FASSA, ambassadrices, Kounouz Ben Arous, GDA, Nahj El Collectif, COSPE, leadership féminin]
 published: false
 ---
 
 <!-- À VÉRIFIER :
-- Photo : toutes les photos du dossier « 10-26 / Fassa Ambassadrices » dépassent 5 Mo, et le connecteur ne peut pas les ouvrir. Article sans image pour l’instant : déposer une version allégée, ou choisir la photo.
+- PHOTOS : les photos du dossier « 10-26 / Fassa Ambassadrices » font toutes plus de 5 Mo, et le connecteur ne peut pas les ouvrir. Déposer des versions allégées, et je compléterai l’article.
+- Le détail du jour 1 (marque collective, témoignages) et de la session COSPE vient des cadres d’action : vérifier qu’il correspond à ce qui s’est fait.
 - Auteure : Azza Malouche, coordinatrice de l’activité selon le cadre d’action. À confirmer.
 -->
 
-Elles viennent de Jendouba, de Kairouan et de Mahdia. Les 25 et 26 octobre, 24 ambassadrices de l’économie sociale et solidaire (ESS) se sont retrouvées à Ben Arous puis à Tunis. Deux jours pour voir des expériences concrètes et échanger entre elles, après les sessions régionales de formation du projet FASSA.
+Elles viennent de Jendouba, de Kairouan et de Mahdia. Elles sont 24, et elles portent un même rôle dans leurs territoires : ambassadrices de l’économie sociale et solidaire (ESS). Les 25 et 26 octobre, elles ont quitté leurs régions pour deux jours à Ben Arous et à Tunis.
 
-## Jour 1 : quatre GDA qui coopèrent
+## Apprendre en regardant faire
 
-À Ben Arous, les ambassadrices ont découvert Kounouz Ben Arous, une initiative portée par quatre groupements de développement agricole (GDA) qui ont choisi de travailler ensemble.
+Dans le cadre du projet FASSA, SHANTI accompagne ces ambassadrices dans leurs trois gouvernorats. Après les premières sessions régionales de formation, il manquait une chose : voir, de près, des initiatives qui fonctionnent. Cette rencontre interrégionale était faite pour ça. Découvrir des expériences concrètes, échanger entre pairs, et repartir avec des idées à adapter chez soi.
 
-## Jour 2 : des initiatives à Tunis
+## Jour 1 : à Ben Arous, quatre GDA qui ont choisi de coopérer
 
-La matinée a commencé chez SHANTI, avec une présentation de l’association et de Nahj El Collectif. Les ambassadrices ont ensuite visité L’artisanerie, SOGEMU et l’Espace Bahja.
+La première journée s’est passée à Ben Arous, avec Kounouz Ben Arous. Derrière ce nom, quatre groupements de développement agricole (GDA) qui ont décidé de travailler ensemble, sous une marque collective.
 
-L’après-midi, elles ont participé à une session de dialogue organisée par COSPE avec SHANTI, aux côtés d’autres organisations. Au programme : les obstacles à l’autonomie économique des femmes, et les solutions qui marchent.
+Les présidentes et les membres des GDA ont raconté leur expérience : comment on coopère sans se perdre, comment on s’organise, comment on valorise ses produits à plusieurs. Pour des ambassadrices dont le rôle est justement de faire naître des dynamiques collectives, c’était un cas d’école, vu de l’intérieur.
+
+## Jour 2 : à Tunis, de SHANTI aux initiatives ESS
+
+Le lendemain, rendez-vous chez SHANTI. La matinée a commencé par une présentation de l’association et de Nahj El Collectif, une initiative à part entière. Puis les ambassadrices sont parties à la découverte de trois lieux : L’artisanerie, SOGEMU et l’Espace Bahja.
+
+L’après-midi a élargi encore l’horizon. COSPE et SHANTI organisaient une session de dialogue autour de l’inclusion financière, de l’autonomie économique des femmes et du leadership féminin. Les ambassadrices y ont participé aux côtés d’organisations venues de plusieurs pays, au même titre que les autres. En petits groupes, chacun·e a d’abord identifié les obstacles qui freinent les femmes, individuels, institutionnels ou économiques, puis les pratiques et les solutions prometteuses.
+
+## Et après ?
+
+Deux jours, trois territoires réunis, et des initiatives vues de l’intérieur. L’enjeu, maintenant : adapter ces pratiques à Jendouba, à Kairouan et à Mahdia.
 
 L’équipe SHANTI les a accompagnées : Jalel, chargé des dynamiques territoriales, Azza et Khouloud, chargées d’accompagnement.
 
