@@ -3,43 +3,33 @@ title: "24 ambassadrices de l’ESS en tournée d’inspiration"
 date: 2026-11-24
 theme: "ESS"
 region: "Grand Tunis"
-auteur: ""
-resume: "Les 25 et 26 octobre, 24 ambassadrices de l’ESS venues de Jendouba, Kairouan et Mahdia ont passé deux jours à Ben Arous et à Tunis, à la rencontre d’initiatives de l’économie sociale et solidaire."
+auteur: "Azza Malouche"
+resume: "Les 25 et 26 octobre, 24 ambassadrices de l’ESS venues de Jendouba, Kairouan et Mahdia ont passé deux jours à Ben Arous et à Tunis, à la rencontre d’initiatives qui coopèrent."
 image: ""
 image_alt: ""
 image_legende: ""
-mots_cles: [FASSA, ambassadrices, Kounouz Ben Arous, GDA, Nahj El Collectif]
+mots_cles: [FASSA, ambassadrices, Kounouz Ben Arous, GDA, Nahj El Collectif, COSPE]
 published: false
 ---
 
-<!-- À VÉRIFIER :
-- Photo : aucune photo principale ni fichier HD dans la fiche, droit à l’image non renseigné. Article laissé sans image.
-- Auteur·e de l’article : non renseigné.
-- Date de publication : mise au 24/11/2026 par défaut, à ajuster.
-- Résultats : la fiche ne contient ni résultats ni chiffres. Les visites du jour 2 et le contenu du jour 1 viennent de la fiche, recoupée avec le cadre d’action trouvé sur SharePoint (« Cadre_action_FASSA_24_ambassadrices_Tunis.docx »). Ce cadre d’action est prévisionnel : le déroulé a-t-il bien eu lieu ainsi ?
-- Le cadre prévoit aussi un atelier avec COSPE l’après-midi du jour 2 : non repris, car absent de la fiche. Faut-il l’ajouter ?
-- Intervenant·es : la fiche écrit « Khould ». Faut-il lire « Khouloud » (Khouloud Saidi dans le cadre d’action) ?
-- Citations : aucune.
-- Mention bailleur : reprise telle quelle, mais sans les « @ » des comptes réseaux sociaux. À valider.
+<!-- À VÉRIFIER :
+- Photo : toutes les photos du dossier « 10-26 / Fassa Ambassadrices » dépassent 5 Mo, et le connecteur ne peut pas les ouvrir. Article sans image pour l’instant : déposer une version allégée, ou choisir la photo.
+- Auteure : Azza Malouche, coordinatrice de l’activité selon le cadre d’action. À confirmer.
 -->
 
-Elles viennent de Jendouba, de Kairouan et de Mahdia. Les 25 et 26 octobre, 24 ambassadrices de l’économie sociale et solidaire (ESS) se sont retrouvées à Ben Arous puis à Tunis pour deux jours de rencontres et de visites.
+Elles viennent de Jendouba, de Kairouan et de Mahdia. Les 25 et 26 octobre, 24 ambassadrices de l’économie sociale et solidaire (ESS) se sont retrouvées à Ben Arous puis à Tunis. Deux jours pour voir des expériences concrètes et échanger entre elles, après les sessions régionales de formation du projet FASSA.
 
-## Pourquoi cette tournée
+## Jour 1 : quatre GDA qui coopèrent
 
-Dans le cadre du projet FASSA, SHANTI accompagne des ambassadrices de l’ESS dans trois gouvernorats. Après les sessions régionales de formation, cette rencontre interrégionale leur a permis de voir des expériences concrètes et d’échanger entre elles.
+À Ben Arous, les ambassadrices ont découvert Kounouz Ben Arous, une initiative portée par quatre groupements de développement agricole (GDA) qui ont choisi de travailler ensemble.
 
-## Jour 1 : quatre GDA qui coopèrent
+## Jour 2 : des initiatives à Tunis
 
-À Ben Arous, les ambassadrices ont découvert Kounouz Ben Arous, une initiative portée par quatre groupements de développement agricole (GDA) qui ont choisi de coopérer.
+La matinée a commencé chez SHANTI, avec une présentation de l’association et de Nahj El Collectif. Les ambassadrices ont ensuite visité L’artisanerie, SOGEMU et l’Espace Bahja.
 
-## Jour 2 : des initiatives à Tunis
+L’après-midi, elles ont participé à une session de dialogue organisée par COSPE avec SHANTI, aux côtés d’autres organisations. Au programme : les obstacles à l’autonomie économique des femmes, et les solutions qui marchent.
 
-À Tunis, la journée a commencé par une présentation de SHANTI et de Nahj El Collectif. Les ambassadrices ont ensuite visité trois lieux : L’artisanerie, SOGEMU et l’Espace Bahja.
-
-## Qui les a accompagnées
-
-Côté SHANTI : Jalel, chargé des dynamiques territoriales, ainsi qu’Azza et Khould, chargées d’accompagnement.
+L’équipe SHANTI les a accompagnées : Jalel, chargé des dynamiques territoriales, Azza et Khouloud, chargées d’accompagnement.
 
 ---
 
