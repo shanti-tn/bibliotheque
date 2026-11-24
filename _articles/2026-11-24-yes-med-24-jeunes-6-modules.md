@@ -1,24 +1,29 @@
 ---
-title: "24 jeunes, 6 modules, un projet chacun·e"
+title: 24 jeunes, 6 modules, un projet chacun·e
 date: 2026-11-24
-theme: "ESS"
-region: "Grand Tunis"
-auteur: "Bahija MAALA"
-resume: "Un mois de formation, six modules, et un pitch pour finir. Le 18 octobre, chez SHANTI à Tunis, les jeunes du programme YES-Med ont présenté leur projet d'entrepreneuriat social et durable."
+theme: ESS
+region: Grand Tunis
+auteur: Bahija MAALA
+resume: Un mois de formation, six modules, et un pitch pour finir. Le 18
+  octobre, chez SHANTI à Tunis, les jeunes du programme YES-Med ont présenté
+  leur projet d'entrepreneuriat social et durable.
 image: /assets/img/articles/yes-med-atelier-jeunes.jpg
-image_alt: "Six jeunes penché·es autour d'une table de travail, sur une grande feuille couverte de notes, pendant un atelier de la formation YES-Med."
-image_legende: "Travail en groupe pendant la formation YES-Med."
-mots_cles: [YES-Med, jeunes, formation, entrepreneuriat social, pitch, Erasmus+, Méditerranée]
+image_alt: Six jeunes penché·es autour d'une table de travail, sur une grande
+  feuille couverte de notes, pendant un atelier de la formation YES-Med.
+image_legende: Travail en groupe pendant la formation YES-Med.
+mots_cles:
+  - YES-Med
+  - jeunes
+  - formation
+  - entrepreneuriat social
+  - pitch
+  - Erasmus+
+  - Méditerranée
 published: false
 ---
 
-<!-- À VÉRIFIER :
-- Le découpage en deux cycles de présentiel (début et mi-octobre) vient du cadre d'action : à confirmer.
-- « La sélection » : préciser ce qui est sélectionné (actions pilotes ? mobilité ?) si on veut être plus précis.
-- Droit à l'image des 2 photos (dossier « 10-26 / YES MED ») : à confirmer avant publication.
--->
 
-Cinq minutes pour convaincre, cinq minutes pour répondre aux questions. Le 18 octobre, chez SHANTI à Tunis, les jeunes du programme YES-Med ont présenté, chacun·e à leur tour, leur projet d'entrepreneuriat social et durable. Ce pitch fermait un mois de formation commencé le 19 septembre.
+Cinq minutes pour convaincre, cinq minutes pour répondre aux questions. Le 18 octobre à Shanti - Tunis, les jeunes du programme YES-Med ont présenté, chacun·e à leur tour, leur projet d'entrepreneuriat social et durable. Ce pitch fermait un mois de formation commencé le 19 septembre.
 
 ## Un programme, six pays
 
