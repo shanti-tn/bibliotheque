@@ -1,22 +1,29 @@
 ---
-title: "Au Kef, les productrices prennent la parole"
+title: Au Kef, les productrices prennent la parole
 date: 2026-11-24
-theme: "ESS"
-region: "Le Kef"
-auteur: "Bahija MAALA"
-resume: "Les 20 et 21 octobre, la Kasbah du Kef a accueilli Signature Tounsiya. Deux jours pour donner la parole aux femmes productrices et aux GDA du Nord-Ouest, et réfléchir ensemble à leurs marchés, à la coopération et au climat."
+theme: ESS
+region: Le Kef
+auteur: Bahija MAALA
+resume: Les 20 et 21 octobre, la Kasbah du Kef a accueilli Signature Tounsiya.
+  Deux jours pour donner la parole aux femmes productrices et aux GDA du
+  Nord-Ouest, et réfléchir ensemble à leurs marchés, à la coopération et au
+  climat.
 image: /assets/img/articles/kef-signature-tounsiya-kasbah.jpg
-image_alt: "Sous les arcades et les colonnes de pierre de la Kasbah du Kef, des dizaines de participantes et participants assis·es autour de tables nappées de rouge écoutent les échanges."
-image_legende: "La Kasbah du Kef, pendant Signature Tounsiya."
-mots_cles: [femmes rurales, GDA, Taghyir GVA, Signature Tounsiya, intercoopération, Nord-Ouest, changements climatiques]
+image_alt: Sous les arcades et les colonnes de pierre de la Kasbah du Kef, des
+  dizaines de participantes et participants assis·es autour de tables nappées de
+  rouge écoutent les échanges.
+image_legende: La Kasbah du Kef, pendant Signature Tounsiya.
+mots_cles:
+  - femmes rurales
+  - GDA
+  - Taghyir GVA
+  - Signature Tounsiya
+  - intercoopération
+  - Nord-Ouest
+  - changements climatiques
 published: false
 ---
 
-<!-- À VÉRIFIER :
-- Le déroulé des ateliers vient du cadre d’action (document préparatoire) : vérifier qu’il correspond à ce qui s’est fait.
-- L’unité de conditionnement du Kef est citée d’après le cadre d’action : à confirmer.
-- Droit à l’image des 4 photos (dossier « 10-26 / Signature Tounsia Kef ») : à confirmer avant publication.
--->
 
 Le 15 octobre, c’est la Journée internationale des femmes rurales. Quelques jours plus tard, les 20 et 21 octobre, la Kasbah du Kef a accueilli **Signature Tounsiya**, deux journées pensées pour celles qui font vivre les territoires du Nord-Ouest : les femmes productrices et les groupements de développement agricole (GDA).
 
