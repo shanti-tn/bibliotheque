@@ -13,7 +13,7 @@ published: false
 ---
 
 <!-- À VÉRIFIER :
-- Photos envoyées par la coordination. Leur place dans le récit (plein air : jour 1 à Ben Arous ; salle : jour 2 chez SHANTI) est déduite des images, à confirmer. Droit à l’image à confirmer avant publication.
+- Photos envoyées par la coordination. Leur place dans le récit (plein air : jour 1 à Ben Arous ; salle : jour 2 chez SHANTI) est déduite des images, à confirmer.
 - Le détail du jour 1 (marque collective, témoignages) et de la session COSPE vient des cadres d’action : vérifier qu’il correspond à ce qui s’est fait.
 - Auteure : Azza Malouche, coordinatrice de l’activité selon le cadre d’action. À confirmer.
 -->
