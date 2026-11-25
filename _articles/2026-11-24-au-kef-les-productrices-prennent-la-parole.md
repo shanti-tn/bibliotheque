@@ -1,17 +1,28 @@
 ---
-title: "Au Kef, les productrices prennent la parole"
+title: Au Kef, les productrices prennent la parole
 date: 2026-11-24
-theme: "ESS"
-region: "Le Kef"
-auteur: "Bahija MAALA"
-resume: "À la Kasbah du Kef, Signature Tounsiya a réuni pendant deux jours des femmes productrices, des GDA du Nord-Ouest et les structures qui les accompagnent. Au programme : la mise en marché des produits, la coopération entre groupements et l’adaptation aux changements climatiques."
+theme: ESS
+region: Le Kef
+auteur: Bahija MAALA
+resume: "À la Kasbah du Kef, Signature Tounsiya a réuni pendant deux jours des
+  femmes productrices, des GDA du Nord-Ouest et les structures qui les
+  accompagnent. Au programme : la mise en marché des produits, la coopération
+  entre groupements et l’adaptation aux changements climatiques."
 image: /assets/img/articles/kef-signature-tounsiya-kasbah.jpg
-image_alt: "Sous les arcades et les colonnes de pierre de la Kasbah du Kef, des dizaines de participantes et participants assis·es autour de tables nappées de rouge écoutent les échanges."
-image_legende: "La Kasbah du Kef, pendant Signature Tounsiya."
-mots_cles: [femmes rurales, GDA, Taghyir GVA, Signature Tounsiya, intercoopération, Nord-Ouest, changements climatiques]
+image_alt: Sous les arcades et les colonnes de pierre de la Kasbah du Kef, des
+  dizaines de participantes et participants assis·es autour de tables nappées de
+  rouge écoutent les échanges.
+image_legende: La Kasbah du Kef, pendant Signature Tounsiya.
+mots_cles:
+  - femmes rurales
+  - GDA
+  - Taghyir GVA
+  - Signature Tounsiya
+  - intercoopération
+  - Nord-Ouest
+  - changements climatiques
 published: false
 ---
-
 Dans le Nord-Ouest, des femmes rurales et des groupements de développement agricole (GDA) transforment et valorisent ce que produit leur territoire : produits agroalimentaires, plantes aromatiques et médicinales, produits du terroir. Les difficultés qu’elles rencontrent portent sur la qualité et l’hygiène des produits, la structuration administrative et fiscale, et l’accès aux marchés.
 
 Ces questions étaient au centre de Signature Tounsiya, organisée les 20 et 21 octobre à la Kasbah du Kef dans le cadre du projet Taghyir GVA, quelques jours après la Journée internationale des femmes rurales du 15 octobre. Les GDA y ont retrouvé des partenaires locaux, des institutions publiques et des structures de financement. Signature Tounsiya est le nom commun d’une série de rencontres consacrées aux initiatives locales et aux produits du terroir ; celle du Kef portait le sous-titre *Femmes, territoires et résilience*.
