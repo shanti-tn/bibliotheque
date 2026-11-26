@@ -3,7 +3,6 @@ title: La collection Automne-Hiver 2026 de L’artisanerie, des ateliers au lanc
 date: 2026-11-26
 theme: Artisanat
 region: Grand Tunis
-auteur: Bahija MAALA
 resume: Dans les ateliers de cinq régions, le pôle artisanat de SHANTI a conçu
   avec les artisan·es la collection Automne-Hiver 2026 de L’artisanerie, autour
   de la table et du salon. Elle a été lancée le 21 novembre à Tunis, lors de
