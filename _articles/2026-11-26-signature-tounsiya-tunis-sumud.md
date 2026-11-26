@@ -1,36 +1,38 @@
 ---
-title: "Signature Tounsiya réunit à Tunis les entreprises accompagnées par SUMUD"
+title: Signature Tounsiya réunit à Tunis les entreprises accompagnées par SUMUD
 date: 2026-11-26
-theme: "ESS"
-region: "Grand Tunis"
-auteur: "Bahija MAALA"
-resume: "Le 15 novembre, rue du Niger à Tunis, la clôture du projet SUMUD a commencé par une journée ouverte au public : un « village SUMUD » où les entreprises accompagnées présentaient leurs produits et leurs savoir-faire, autour de dégustations, d’ateliers et de rencontres."
-image: ""
-image_alt: ""
-image_legende: ""
-mots_cles: [SUMUD, OXFAM, Signature Tounsiya, entreprises accompagnées, terroir, artisanat, tourisme]
+theme: ESS
+region: Grand Tunis
+auteur: Bahija MAALA
+resume: "Le 15 novembre, rue du Niger à Tunis, la clôture du projet SUMUD a
+  commencé par une journée ouverte au public : un « village SUMUD » où les
+  entreprises accompagnées présentaient leurs produits et leurs savoir-faire,
+  autour de dégustations, d’ateliers et de rencontres."
+mots_cles:
+  - SUMUD
+  - OXFAM
+  - Signature Tounsiya
+  - entreprises accompagnées
+  - terroir
+  - artisanat
+  - tourisme
 published: false
 ---
+SHANTI a accompagné des entreprises artisanales, agricoles et touristiques autour de trois axes fondamentaux : la résilience, l’innovation et la durabilité. Pour marquer la clôture de cet accompagnement, deux journées distinctes ont été organisées. La première, ouverte au grand public et organisée par SHANTI, a été l’occasion de mettre en lumière les initiatives, les savoir-faire et les parcours des entreprises accompagnées.
 
-<!-- À VÉRIFIER :
-- PHOTOS : toutes les photos du dossier « 11-26 / Signature Tounsiya Tunis – Photos » font plus de 10 Mo : le connecteur ne peut pas les ouvrir. Envoyer 4 ou 5 photos allégées.
-- Sources : la fiche (reprise du cadre d’action) et la newsletter d’annonce du 11 novembre. Ces deux documents datent d’avant l’événement : confirmer que la journée s’est déroulée ainsi (nombre d’entreprises, ateliers proposés).
-- Résultats : aucun dans la fiche (fréquentation, ventes).
-- Mention de visibilité : reprise de la newsletter (« Financé par la Coopération Italienne » et la phrase sur le cofinancement). Valider qu’il s’agit bien de la mention exacte à faire figurer.
--->
+## Signiature Tounsia, rue du Niger
 
-SUMUD a accompagné des micro, petites et moyennes entreprises artisanales, agricoles et touristiques en Tunisie, autour de trois axes inscrits dans son nom : résilience, innovation et durabilité. Le projet est mis en œuvre par Oxfam, AVSI, SHANTI, APAD et la Région Toscane.
+Le 15 novembre, les espaces des 44 et 46 rue du Niger, à Tunis, se sont transformés en un véritable lieu de rencontre et de découverte à l’occasion de **Signature Tounsiya**, organisé sous la forme d’un « village SUMUD ». L’événement a réuni une vingtaine d’entreprises artisanales, agricoles et touristiques accompagnées dans le cadre du projet, venues présenter leurs produits, partager leurs savoir-faire et faire découvrir leurs initiatives au grand public.
 
-Pour le clore, deux journées distinctes ont été organisées. La première, le 15 novembre, était ouverte au public et organisée par SHANTI. La seconde, le 16 novembre, était une journée officielle organisée par OXFAM, en présence des partenaires, des bailleurs et de représentant·es des ministères.
+Pensé comme un parcours ouvert à la découverte, le village s'articulait autour de trois espaces complémentaires. Le premier était consacré aux stands des entreprises, qui ont pu exposer et proposer à la vente leurs produits. Les visiteurs y ont découvert une diversité de créations artisanales et de produits du terroir, avec notamment un espace de dégustation invitant à explorer les saveurs et les richesses des territoires.
 
-## Un village SUMUD, rue du Niger
+Le deuxième espace était dédié aux ateliers pratiques, ouverts à toutes et à tous. À travers ces temps de participation et d'échange, les visiteurs étaient invités à s'initier à différents savoir-faire artisanaux, à expérimenter des gestes et des techniques et à découvrir le travail qui se cache derrière les produits présentés. Ces ateliers ont permis de créer un lien direct entre les entreprises, leurs métiers et le public.
 
-Le 15 novembre, de 10 h à 18 h, les espaces des 44 et 46 rue du Niger, à Tunis, ont accueilli Signature Tounsiya, sous la forme d’un « village SUMUD » réunissant une vingtaine d’entreprises accompagnées.
+Enfin, un troisième espace mettait en lumière les initiatives liées au tourisme local et à la valorisation des territoires. Il offrait l'occasion de découvrir des expériences, des projets et des propositions qui contribuent à faire connaître les ressources locales et à renouveler les façons de découvrir les régions tunisiennes.
 
-Le lieu était organisé en trois espaces. Sur les stands, les entreprises présentaient et vendaient leurs produits, avec un coin de dégustation consacré aux produits du terroir. Des ateliers pratiques, ouverts à toutes et à tous, faisaient découvrir des savoir-faire artisanaux en les pratiquant. Un troisième espace était réservé aux rencontres et à la découverte des initiatives qui font vivre le tourisme local et valorisent les territoires.
+Au-delà de l'exposition et de la vente, cette journée avait pour ambition de créer des passerelles entre les entreprises accompagnées, les visiteurs et les acteurs intéressés par les initiatives locales. Elle a surtout permis de rendre visibles des parcours entrepreneuriaux aux profils variés, tout en illustrant la diversité de l'accompagnement proposé par SUMUD, adapté aux réalités des territoires et aux spécificités des secteurs de l'artisanat, de l'agriculture et du tourisme.
 
-L’objectif était de créer un espace de rencontre et de visibilité pour les entreprises accompagnées, et de montrer la diversité de l’accompagnement proposé par SUMUD selon les territoires et les secteurs.
+À travers ce village, Signature Tounsiya a ainsi donné à voir la richesse des initiatives soutenues par le projet, mais aussi les liens qui se construisent entre savoir-faire, entrepreneuriat et valorisation des ressources locales.
 
 ---
 
-*Financé par la Coopération Italienne. Le projet SUMUD (Résilience, innovation et durabilité pour les micros, petites et moyennes entreprises artisanales, agricoles et touristiques en Tunisie) est cofinancé par l’AICS et CNH Industrial, et mis en œuvre par Oxfam, AVSI, Shanti, APAD et la Région Toscane.*
