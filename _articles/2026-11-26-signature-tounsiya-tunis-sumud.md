@@ -44,4 +44,4 @@ Le troisième était consacré au tourisme. En Tunisie, le tourisme de masse occ
 
 La journée visait à mettre en relation les entreprises accompagnées, le public et les acteurs intéressés par les initiatives locales. Elle montrait la diversité des parcours des entreprises et celle de l’accompagnement proposé par SUMUD, selon les territoires et les secteurs : artisanat, agriculture, tourisme.
 
-Après Sfax puis Le Kef, Signature Tounsiya faisait cette fois étape à Tunis.
+Le lendemain, 16 novembre, la journée officielle de clôture, organisée par OXFAM, réunissait les partenaires, les bailleurs et des représentant·es des ministères.
