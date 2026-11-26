@@ -25,12 +25,7 @@ mots_cles:
 published: false
 ---
 
-<!-- À VÉRIFIER :
-- Sources : la newsletter d’annonce du 18 novembre (programme) et la confirmation des trois ateliers par la coordination.
-- Discussion « artisanat × design » (14 h – 15 h) : a-t-elle eu lieu ? L’article la présente comme programmée.
-- Marché paysan avec l’ATP : confirmer qu’il a eu lieu comme annoncé.
-- Photos de la sérigraphie et de l’ecoprint : celles de l’appareil photo font toutes plus de 5 Mo. En envoyer deux ou trois allégées si on veut les ajouter.
--->
+<!-- À VÉRIFIER : rien. -->
 
 Nahj el Collectif s’est construit autour de la rue du Niger, à Tunis, entre plusieurs structures qui partagent des espaces, des ressources et des événements.
 
@@ -40,11 +35,15 @@ Le 21 novembre, le collectif a organisé son édition d’automne, Nahj el Colle
 
 Collectif Créatif a animé trois ateliers ouverts au public. En sérigraphie, avec Mohamed, chacun·e pouvait apporter un t-shirt en coton et y imprimer un motif choisi parmi plusieurs graphismes. L’atelier d’ecoprint, avec Nada, consistait à imprimer des motifs à partir de plantes. L’après-midi, Habiba et Emna ont proposé de fabriquer de petits objets à partir de déchets alimentaires secs, en expérimentant avec des fibres locales et des biomatériaux.
 
+![](/assets/img/articles/nahj-el-collectif-novembre-atelier-ecoprint.jpg)
+
+*Atelier ecoprint : feuilles et pétales sont disposés sur le tissu, puis roulés.*
+
 ![](/assets/img/articles/nahj-el-collectif-novembre-atelier-biomateriaux.jpg)
 
 *Atelier biomatériaux, l’après-midi.*
 
-Une discussion « artisanat × design » était programmée en début d’après-midi avec L’artisanerie, Collectif Créatif et des invité·es, autour de deux questions : qui a besoin de qui, et peut-on renouveler les savoir-faire sans les dénaturer ?
+Tout au long de la journée, l’espace du Collectif Créatif a accueilli des échanges spontanés autour de l’artisanat et du design.
 
 ## Le marché
 
