@@ -1,16 +1,17 @@
 ---
-title: "Signature Tounsiya à Tunis, le village des entreprises SUMUD"
+title: Signature Tounsia à Tunis, le village des entreprises SUMUD
 date: 2026-11-26
 theme: ESS
 region: Grand Tunis
-auteur: Bahija MAALA
 resume: "Le 15 novembre, rue du Niger à Tunis, la clôture du projet SUMUD a
   commencé par une journée ouverte au public : un « village SUMUD » où les
   entreprises accompagnées présentaient leurs produits et leurs savoir-faire,
   autour de dégustations, d’ateliers et de rencontres."
 image: /assets/img/articles/signature-tounsiya-tunis-stand.jpg
-image_alt: "Dans la cour, sous les guirlandes, une visiteuse un café à la main échange avec un exposant devant son stand ; d’autres visiteurs circulent entre les stands à l’arrière-plan."
-image_legende: "Échanges entre exposant·es et visiteur·ses, le 15 novembre, rue du Niger."
+image_alt: Dans la cour, sous les guirlandes, une visiteuse un café à la main
+  échange avec un exposant devant son stand ; d’autres visiteurs circulent entre
+  les stands à l’arrière-plan.
+image_legende: Échanges entre exposant·es et visiteur·ses, le 15 novembre, rue du Niger.
 mots_cles:
   - SUMUD
   - OXFAM
@@ -21,7 +22,6 @@ mots_cles:
   - tourisme
 published: false
 ---
-
 Avec le projet SUMUD, SHANTI et ses partenaires ont accompagné des entreprises artisanales, agricoles et touristiques autour de trois axes : la résilience, l’innovation et la durabilité. Deux journées ont marqué la fin de cet accompagnement. La première, ouverte au public et organisée par SHANTI, présentait les initiatives, les savoir-faire et les parcours des entreprises accompagnées.
 
 ## Signature Tounsiya, rue du Niger
