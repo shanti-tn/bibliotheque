@@ -18,6 +18,11 @@ content:
       sort: date
       order: desc
     fields:
+      - name: published
+        label: Publié
+        description: "Cochez pour mettre l'article en ligne. Décochez pour le garder en brouillon (invisible sur le site)."
+        type: boolean
+        default: true
       - name: title
         label: Titre
         type: string
@@ -71,11 +76,6 @@ content:
         description: "Facultatif, aide la recherche (ex. partenaires, projet)."
         type: string
         list: true
-      - name: published
-        label: Publié
-        description: "Décochez pour garder l'article en brouillon (invisible sur le site)."
-        type: boolean
-        default: true
       - name: body
         label: Texte de l'article
         type: rich-text

@@ -19,7 +19,7 @@ mots_cles:
   - co-création
   - prototypage
   - artisanat
-published: false
+published: true
 ---
 Pour concevoir la collection Automne-Hiver 2026 de L’artisanerie, le pôle artisanat s’est déplacé dans les ateliers, aux côtés des artisan·es. Les pièces viennent de cinq régions : le Jérid, la Kroumirie, Sejnane, le Cap-Bon et Tunis.
 

@@ -20,7 +20,7 @@ mots_cles:
   - terroir
   - artisanat
   - tourisme
-published: false
+published: true
 ---
 Avec le projet SUMUD, SHANTI et ses partenaires ont accompagné des entreprises artisanales, agricoles et touristiques autour de trois axes : la résilience, l’innovation et la durabilité. Deux journées ont marqué la fin de cet accompagnement. La première, ouverte au public et organisée par SHANTI, présentait les initiatives, les savoir-faire et les parcours des entreprises accompagnées.
 

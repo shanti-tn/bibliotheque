@@ -19,7 +19,7 @@ mots_cles:
   - mtabga
   - sig
   - Jérid
-published: false
+published: true
 ---
 Dar el Mensej est un nouvel espace SHANTI à Nefta, pensé pour les artisanes et géré par elles. Elles y tissent, y cuisinent et y passent du temps ensemble. Le 14 novembre 2026, le lieu a accueilli du public pour la première fois : 25 visiteurs et visiteuses sont venu·es pour un atelier animé par les artisanes d’El Mensej et les cheffes de la table d’hôte In Nefta.
 

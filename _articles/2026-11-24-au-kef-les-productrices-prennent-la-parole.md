@@ -20,7 +20,7 @@ mots_cles:
   - intercoopération
   - Nord-Ouest
   - changements climatiques
-published: false
+published: true
 ---
 Dans le Nord-Ouest, des femmes rurales et des groupements de développement agricole (GDA) transforment et valorisent ce que produit leur territoire : produits agroalimentaires, plantes aromatiques et médicinales, produits du terroir. Les difficultés qu’elles rencontrent portent sur la qualité et l’hygiène des produits, la structuration administrative et fiscale, et l’accès aux marchés.
 

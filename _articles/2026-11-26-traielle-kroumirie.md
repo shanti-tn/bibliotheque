@@ -23,7 +23,7 @@ mots_cles:
   - AGIM
   - Abou Ali Essouni
   - TAGHYIR
-published: false
+published: true
 ---
 Trai’ELLE est une course féminine de 18,4 km reliant Aïn Draham à Aïn Saïda, à travers les forêts de chênes-lièges et de pins. Le 1er novembre, 77 coureuses ont participé à cette 4e édition, organisée par Dar El Ain, une agence d’écotourisme de Tabarka. L’événement s’est accompagné de trois jours d’activités sportives, culturelles et agro-écologiques dans trois éco-villages.
 

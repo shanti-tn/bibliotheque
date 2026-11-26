@@ -19,7 +19,7 @@ mots_cles:
   - pitch
   - Erasmus+
   - Méditerranée
-published: false
+published: true
 ---
 Cinq minutes pour présenter son projet, cinq minutes pour répondre aux questions. Le 18 octobre, à Shanti - Tunis, les jeunes du programme YES-Med ont présenté tour à tour leur projet d’entrepreneuriat social et durable. Ce pitch clôturait la formation commencée le 19 septembre.
 

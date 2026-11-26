@@ -21,7 +21,7 @@ mots_cles:
   - L’artisanerie
   - design
   - artisanat
-published: false
+published: true
 ---
 Nahj el Collectif s’est construit autour de la rue du Niger, à Tunis, entre plusieurs structures qui partagent des espaces, des ressources et des événements.
 

@@ -19,7 +19,7 @@ mots_cles:
   - Nahj El Collectif
   - COSPE
   - leadership féminin
-published: false
+published: true
 ---
 Dans trois régions de Tunisie, Jendouba, Kairouan et Mahdia, 24 femmes se sont engagées comme ambassadrices de l'économie sociale et solidaire (ESS). Sur le terrain, elles font connaître les initiatives existantes et encouragent le travail collectif autour d'elles. Avec l'appui de SHANTI, elles ont suivi une première série de formations dans chacune des trois régions, dans le cadre du projet FASSA.
 
