@@ -3,7 +3,6 @@ title: Premier atelier à Dar el Mensej
 date: 2026-11-24
 theme: Artisanat
 region: Nefta
-auteur: Bahija MAALA
 resume: "À Nefta, Dar el Mensej, l’espace géré par les artisanes d’El Mensej, a
   accueilli du public pour la première fois le 14 novembre : 25 visiteurs et
   visiteuses, autour du tissage, de la mtabga et d’un jeu de sig."
