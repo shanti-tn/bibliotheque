@@ -3,7 +3,6 @@ title: Au Kef, les productrices prennent la parole
 date: 2026-11-24
 theme: ESS
 region: Le Kef
-auteur: Bahija MAALA
 resume: "À la Kasbah du Kef, Signature Tounsiya a réuni pendant deux jours des
   femmes productrices, des GDA du Nord-Ouest et les structures qui les
   accompagnent. Au programme : la mise en marché des produits, la coopération
