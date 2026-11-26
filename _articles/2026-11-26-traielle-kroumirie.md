@@ -4,7 +4,6 @@ title: Autour de la course Trai’ELLE, trois jours d’ateliers et de rencontre
 date: 2026-11-26
 theme: Événement
 region: Aïn Draham
-auteur: Bahija MAALA
 resume: Du 30 octobre au 1er novembre, la 4e édition de Trai’ELLE a réuni
   coureuses, GDA, artisan·es, élèves et associations dans trois éco-villages de
   Kroumirie. SHANTI a co-animé le marché solidaire et plusieurs temps d’échange,
