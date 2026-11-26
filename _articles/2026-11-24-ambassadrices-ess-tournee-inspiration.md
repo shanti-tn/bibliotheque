@@ -4,7 +4,6 @@ title: À Ben Arous et à Tunis, les ambassadrices FASSA à la rencontre
 date: 2026-11-24
 theme: ESS
 region: Grand Tunis
-auteur: Azza Malouche
 resume: Venues de Jendouba, de Kairouan et de Mahdia, les 24 ambassadrices de
   l’ESS du projet FASSA ont passé deux jours auprès de groupements et
   d’initiatives qui ont choisi de travailler ensemble.
