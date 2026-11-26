@@ -3,7 +3,6 @@ title: Rue du Niger, une journée autour de l’artisanat et du design
 date: 2026-11-26
 theme: Événement
 region: Grand Tunis
-auteur: Bahija MAALA
 resume: Le 21 novembre, Nahj el Collectif · صنايعي a réuni à Tunis les
   artisan·es et partenaires de SHANTI, Collectif Créatif, l’ATP et
   L’artisanerie, avec pour objectif de soutenir la vente de leurs produits et de
@@ -24,8 +23,6 @@ mots_cles:
   - artisanat
 published: false
 ---
-
-
 Nahj el Collectif s’est construit autour de la rue du Niger, à Tunis, entre plusieurs structures qui partagent des espaces, des ressources et des événements.
 
 Le 21 novembre, le collectif a organisé son édition d’automne, Nahj el Collectif · صنايعي, avec Collectif Créatif, l’ATP et L’artisanerie. Les صنايعية, ce sont celles et ceux qui fabriquent : artisan·es, designers, producteur·rices. La journée mettait l’accent sur le design, l’artisanat et le développement durable, de 10 h à 18 h, aux 44 et 46 rue du Niger, à Montplaisir.
