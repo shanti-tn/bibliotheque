@@ -1,21 +1,22 @@
 ---
-title: "24 ambassadrices de l’ESS en tournée d’inspiration"
+title: 24 ambassadrices de l’ESS en tournée d’inspiration
 date: 2026-11-24
-theme: "ESS"
-region: "Grand Tunis"
-auteur: "Azza Malouche"
-resume: "Les 25 et 26 octobre, 24 ambassadrices de l’ESS venues de Jendouba, Kairouan et Mahdia ont passé deux jours à Ben Arous et à Tunis, à la rencontre d’initiatives qui coopèrent."
-image: ""
-image_alt: ""
-image_legende: ""
-mots_cles: [FASSA, ambassadrices, Kounouz Ben Arous, GDA, Nahj El Collectif, COSPE]
+theme: ESS
+region: Grand Tunis
+auteur: Azza Malouche
+resume: Les 25 et 26 octobre, 24 ambassadrices de l’ESS venues de Jendouba,
+  Kairouan et Mahdia ont passé deux jours à Ben Arous et à Tunis, à la rencontre
+  d’initiatives qui coopèrent.
+mots_cles:
+  - FASSA
+  - ambassadrices
+  - Kounouz Ben Arous
+  - GDA
+  - Nahj El Collectif
+  - COSPE
 published: false
 ---
 
-<!-- À VÉRIFIER :
-- Photo : toutes les photos du dossier « 10-26 / Fassa Ambassadrices » dépassent 5 Mo, et le connecteur ne peut pas les ouvrir. Article sans image pour l’instant : déposer une version allégée, ou choisir la photo.
-- Auteure : Azza Malouche, coordinatrice de l’activité selon le cadre d’action. À confirmer.
--->
 
 Elles viennent de Jendouba, de Kairouan et de Mahdia. Les 25 et 26 octobre, 24 ambassadrices de l’économie sociale et solidaire (ESS) se sont retrouvées à Ben Arous puis à Tunis. Deux jours pour voir des expériences concrètes et échanger entre elles, après les sessions régionales de formation du projet FASSA.
 
