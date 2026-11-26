@@ -52,6 +52,3 @@ L’après-midi, elles ont participé à une session organisée par COSPE avec S
 ![](/assets/img/articles/fassa-ambassadrices-groupe.jpg)
 
 *Travail en petit groupe, en salle.*
-
----
-
