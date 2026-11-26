@@ -25,7 +25,6 @@ mots_cles:
 published: false
 ---
 
-<!-- À VÉRIFIER : rien. -->
 
 Nahj el Collectif s’est construit autour de la rue du Niger, à Tunis, entre plusieurs structures qui partagent des espaces, des ressources et des événements.
 
@@ -55,10 +54,10 @@ Dans la cour, un marché paysan et créatif se tenait toute la journée. L’ATP
 
 *Stands des créateurs.rices*
 
-![](/assets/img/articles/nahj-el-collectif-novembre-cuisine.jpg)
-
-*Cuisine préparée sur place.*
+# Nouvelle collection L'artisanerie
 
 La journée célébrait le lancement de la collection Automne-Hiver 2026 de L’artisanerie, avec un nouvel aménagement de la boutique pensé pour une immersion dans les univers du salon et de l’art de la table.
+
+
 
 À très vite dans la rue du Niger !
