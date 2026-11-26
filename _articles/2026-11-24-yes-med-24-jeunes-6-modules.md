@@ -11,7 +11,7 @@ resume: Le 18 octobre, à Shanti - Tunis, les jeunes du programme YES-Med ont
 image: /assets/img/articles/whatsapp-image-2026-11-24-at-105651-3.jpeg
 image_alt: Six jeunes penché·es autour d’une table de travail, sur une grande
   feuille couverte de notes, pendant un atelier de la formation YES-Med.
-image_legende: Travail en groupe pendant la formation YES-Med.
+image_legende: "Photo de groupe "
 mots_cles:
   - YES-Med
   - jeunes
