@@ -1,5 +1,5 @@
 ---
-title: Signature Tounsiya réunit à Tunis les entreprises accompagnées par SUMUD
+title: "Signature Tounsiya à Tunis, le village des entreprises SUMUD"
 date: 2026-11-26
 theme: ESS
 region: Grand Tunis
@@ -21,29 +21,27 @@ mots_cles:
   - tourisme
 published: false
 ---
-SHANTI a accompagné des entreprises artisanales, agricoles et touristiques autour de trois axes fondamentaux : la résilience, l’innovation et la durabilité. Pour marquer la clôture de cet accompagnement, deux journées distinctes ont été organisées. La première, ouverte au grand public et organisée par SHANTI, a été l’occasion de mettre en lumière les initiatives, les savoir-faire et les parcours des entreprises accompagnées.
+
+Avec le projet SUMUD, SHANTI et ses partenaires ont accompagné des entreprises artisanales, agricoles et touristiques autour de trois axes : la résilience, l’innovation et la durabilité. Deux journées ont marqué la fin de cet accompagnement. La première, ouverte au public et organisée par SHANTI, présentait les initiatives, les savoir-faire et les parcours des entreprises accompagnées.
 
 ## Signature Tounsiya, rue du Niger
 
-Le 15 novembre, les espaces des 44 et 46 rue du Niger, à Tunis, se sont transformés en un véritable lieu de rencontre et de découverte à l’occasion de **Signature Tounsiya**, organisé sous la forme d’un « village SUMUD ». L’événement a réuni une vingtaine d’entreprises artisanales, agricoles et touristiques accompagnées dans le cadre du projet, venues présenter leurs produits, partager leurs savoir-faire et faire découvrir leurs initiatives au grand public.
+Le 15 novembre, les espaces des 44 et 46 rue du Niger, à Tunis, ont accueilli **Signature Tounsiya**, sous la forme d’un « village SUMUD ». Une vingtaine d’entreprises artisanales, agricoles et touristiques accompagnées par le projet y présentaient au public leurs produits et leurs savoir-faire.
 
-Pensé comme un parcours ouvert à la découverte, le village s'articulait autour de trois espaces complémentaires. Le premier était consacré aux stands des entreprises, qui ont pu exposer et proposer à la vente leurs produits. Les visiteurs y ont découvert une diversité de créations artisanales et de produits du terroir, avec notamment un espace de dégustation invitant à explorer les saveurs et les richesses des territoires.
+Le village s’organisait en trois espaces. Le premier réunissait les stands, où les entreprises exposaient et vendaient leurs créations artisanales et leurs produits du terroir, avec un espace de dégustation.
 
 ![](/assets/img/articles/signature-tounsiya-tunis-creations.jpg)
 
 *Sacs et bijoux brodés présentés par une entreprise accompagnée.*
 
-Le deuxième espace était dédié aux ateliers pratiques, ouverts à toutes et à tous. À travers ces temps de participation et d'échange, les visiteurs étaient invités à s'initier à différents savoir-faire artisanaux, à expérimenter des gestes et des techniques et à découvrir le travail qui se cache derrière les produits présentés. Ces ateliers ont permis de créer un lien direct entre les entreprises, leurs métiers et le public.
+Le deuxième accueillait des ateliers pratiques ouverts à toutes et à tous. Les visiteur·ses pouvaient s’y initier à des savoir-faire artisanaux et voir comment sont fabriqués les produits présentés sur les stands. L’idée était de mettre le public en contact direct avec les entreprises et leurs métiers.
 
 ![](/assets/img/articles/signature-tounsiya-tunis-atelier.jpg)
 
 *Un atelier pratique, pendant la journée.*
 
-Enfin, un troisième espace mettait en lumière les initiatives liées au tourisme local et à la valorisation des territoires. Il offrait l'occasion de découvrir des expériences, des projets et des propositions qui contribuent à faire connaître les ressources locales et à renouveler les façons de découvrir les régions tunisiennes.
+Le troisième était consacré au tourisme. En Tunisie, le tourisme de masse occupe une grande place ; les entreprises accompagnées par SUMUD proposent d’autres façons de découvrir le pays. Elles y présentaient des offres de tourisme durable et culturel, ancrées dans les régions et dans leurs ressources locales.
 
-Au-delà de l'exposition et de la vente, cette journée avait pour ambition de créer des passerelles entre les entreprises accompagnées, les visiteurs et les acteurs intéressés par les initiatives locales. Elle a surtout permis de rendre visibles des parcours entrepreneuriaux aux profils variés, tout en illustrant la diversité de l'accompagnement proposé par SUMUD, adapté aux réalités des territoires et aux spécificités des secteurs de l'artisanat, de l'agriculture et du tourisme.
+La journée visait à mettre en relation les entreprises accompagnées, le public et les acteurs intéressés par les initiatives locales. Elle montrait la diversité des parcours des entreprises et celle de l’accompagnement proposé par SUMUD, selon les territoires et les secteurs : artisanat, agriculture, tourisme.
 
-À travers ce village, Signature Tounsiya a ainsi donné à voir la richesse des initiatives soutenues par le projet, mais aussi les liens qui se construisent entre savoir-faire, entrepreneuriat et valorisation des ressources locales.
-
----
-
+Après Sfax puis Le Kef, Signature Tounsiya faisait cette fois étape à Tunis.

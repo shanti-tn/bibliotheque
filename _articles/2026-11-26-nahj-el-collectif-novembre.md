@@ -54,7 +54,7 @@ Dans la cour, un marché paysan et créatif se tenait toute la journée. L’ATP
 
 *Stands des créateur·rices*
 
-# Nouvelle collection L'artisanerie
+## Nouvelle collection L'artisanerie
 
 La journée célébrait le lancement de la collection Automne-Hiver 2026 de L’artisanerie, avec un nouvel aménagement de la boutique pensé pour une immersion dans les univers du salon et de l’art de la table.
 
