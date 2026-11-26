@@ -1,4 +1,5 @@
 ---
+published: true
 title: Autour de la course Trai’ELLE, trois jours d’ateliers et de rencontres en
   Kroumirie
 date: 2026-11-26
@@ -8,7 +9,7 @@ resume: Du 30 octobre au 1er novembre, la 4e édition de Trai’ELLE a réuni
   coureuses, GDA, artisan·es, élèves et associations dans trois éco-villages de
   Kroumirie. SHANTI a co-animé le marché solidaire et plusieurs temps d’échange,
   animé des ateliers, et accompagné des jeunes de Nefta.
-image: /assets/img/articles/traielle-2026-tente.jpg
+image: /assets/img/articles/pxl20261030090927523mp-1.jpg
 image_alt: Sous une tente, devant les kakémonos de Trai’ELLE et de Dar El Ain,
   un homme parle au micro, entouré d’intervenantes et d’intervenants assis·es,
   face à un public nombreux.
@@ -23,7 +24,6 @@ mots_cles:
   - AGIM
   - Abou Ali Essouni
   - TAGHYIR
-published: true
 ---
 Trai’ELLE est une course féminine de 18,4 km reliant Aïn Draham à Aïn Saïda, à travers les forêts de chênes-lièges et de pins. Le 1er novembre, 77 coureuses ont participé à cette 4e édition, organisée par Dar El Ain, une agence d’écotourisme de Tabarka. L’événement s’est accompagné de trois jours d’activités sportives, culturelles et agro-écologiques dans trois éco-villages.
 
