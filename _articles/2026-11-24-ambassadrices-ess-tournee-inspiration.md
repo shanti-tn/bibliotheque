@@ -16,8 +16,6 @@ mots_cles:
   - COSPE
 published: false
 ---
-
-
 Elles viennent de Jendouba, de Kairouan et de Mahdia. Les 25 et 26 octobre, 24 ambassadrices de l’économie sociale et solidaire (ESS) se sont retrouvées à Ben Arous puis à Tunis. Deux jours pour voir des expériences concrètes et échanger entre elles, après les sessions régionales de formation du projet FASSA.
 
 ## Jour 1 : quatre GDA qui coopèrent
