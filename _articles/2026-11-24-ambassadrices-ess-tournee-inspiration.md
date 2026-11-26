@@ -46,7 +46,7 @@ Le lendemain, la matinée a commencé chez SHANTI par une présentation de l’a
 
 ![](/assets/img/articles/fassa-ambassadrices-presentation.jpg)
 
-*Présentation de la coopérative Ideyeet Par Lamia.*
+*Présentation de la coopérative Ideyeet par Lamia.*
 
 L’après-midi, elles ont participé à une session organisée par COSPE avec SHANTI. Cette session préparait une conférence consacrée à l’inclusion financière, à l’autonomie économique des femmes et au leadership féminin. Des organisations de la société civile et des structures de microfinance y prenaient part, avec des expériences menées dans plusieurs pays. Réparti·es en trois groupes, les participant·es ont d’abord recensé les obstacles que rencontrent les femmes, d’ordre individuel et socioculturel, institutionnel ou économique. Ils et elles ont ensuite partagé des pratiques et des solutions, déjà éprouvées ou encore à l’état de proposition. La session devait aboutir aux questions à approfondir lors de la conférence.
 

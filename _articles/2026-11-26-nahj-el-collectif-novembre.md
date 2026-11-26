@@ -52,7 +52,7 @@ Dans la cour, un marché paysan et créatif se tenait toute la journée. L’ATP
 
 ![](/assets/img/articles/nahj-el-collectif-novembre-bijoux.jpg)
 
-*Stands des créateurs.rices*
+*Stands des créateur·rices*
 
 # Nouvelle collection L'artisanerie
 
